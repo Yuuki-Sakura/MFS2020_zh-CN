@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LC_Lukla_Briefing1": "丹增-希拉里机场是一座小型机场，位于尼泊尔东部第一大县索鲁孔布县昆布区卢卡拉镇。卢卡拉镇是攀登珠穆朗玛峰的大本营，使得该机场交通量相当可观。狂风肆虐、云层掩蔽和变化不定的能见度使得机场航班常常延误，甚至导致整个机场的关闭。",
+      "MENU.LANDINGCHALLENGE.NAME_LUKLA": "卢卡拉",
+      "MENU.LANDINGCHALLENGE.NAME_LUKLA_Descr": "尼泊尔卢卡拉机场(VNLK)"
+    }
+  }
+}
