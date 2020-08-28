@@ -1,0 +1,2022 @@
+{
+  "LocalisationFile": {
+    "Version": 2,
+    "UUID": "43717900-4dfd-4386-aee3-b7c603186ba5",
+    "Languages": [
+      "en-US",
+      "fr-FR",
+      "es-ES",
+      "de-DE",
+      "it-IT",
+      "pl-PL",
+      "pt-BR",
+      "ru-RU",
+      "zh-CN"
+    ],
+    "Strings": {
+      "FirstNavigationSolo.Arrival": {
+        "UUID": "4db93770-1de0-47a8-af7d-c6ba81eb98cc",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:41",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Sedona Airport"
+          },
+          "fr-FR": {
+            "Text": "Aéroport de Sedona",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Aeropuerto de Sedona",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Flugplatz Sedona",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Aeroporto di Sedona",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Port lotniczy Sedona",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Aeroporto de Sedona",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Аэропорт Седона",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Briefing": {
+        "UUID": "5c09801b-6006-4286-90bb-58ddf7e907dc",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-17 13:54:57",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "在这最后一堂课中，你需要遵照飞行计划，在塞多纳机场准确着陆。",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Dans cette dernière leçon, vous devrez suivre la trajectoire de vol pour atterrir correctement à votre destination, l'aéroport de Sedona.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "En esta última lección, tendrás que seguir el plan de vuelo para aterrizar correctamente en tu destino, el aeropuerto de Sedona.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "In dieser letzten Lektion müssen Sie Ihrem Flugplan folgen, um an Ihrem Ziel, dem Flugplatz Sedona, ordnungsgemäß zu landen.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "In questa ultima lezione dovrai seguire il tuo piano di volo per atterrare a destinazione in modo corretto, l'Aeroporto di Sedona.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Podczas tej ostatniej lekcji twoim zadaniem będzie wykonanie lotu zgodnego z planem lotu i poprawne lądowanie w miejscu docelowym – na lotnisku Sedona.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Nesta lição final, você terá que seguir seu plano de voo para pousar corretamente em seu destino, o Aeroporto de Sedona.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "В этом последнем уроке вам нужно будет следовать своему полётному плану и совершить точную посадку в пункте назначения — в аэропорту Седоны.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "在这最后一堂课中，你需要遵照飞行计划，在塞多纳机场准确着陆。",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Departure": {
+        "UUID": "110dd87a-5800-4799-a23a-1c996e635105",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Flagstaff-Pulliam Airport"
+          },
+          "fr-FR": {
+            "Text": "Aéroport de Flagstaff-Pulliam",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Aeropuerto de Flagstaff-Pulliam",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Flagstaff-Pulliam Airport",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Aeroporto di Flagstaff-Pulliam",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Port lotniczy Flagstaff-Pulliam",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Aeroporto de Flagstaff-Pulliam",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Аэропорт Флагстафф-Пуллиам",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Description": {
+        "UUID": "5c7d41ab-63c1-43ca-aaac-056d1e88bb4f",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "First Solo Navigation Training"
+          },
+          "fr-FR": {
+            "Text": "Formation à la première navigation en solo",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Primer entrenamiento de navegación en solitario",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Training: Erste Solonavigation",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Primo addestramento di navigazione in solitaria",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Szkolenie „Pierwsza samodzielna nawigacja”",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Primeiro Treinamento de Navegação Solo",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Первый урок по самостоятельной навигации",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_Intro1": {
+        "UUID": "0753a9fe-1f2f-475e-9883-a5b7b2aca0fb",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "We've come a long way together, haven't we? And this is when it all pays off."
+          },
+          "fr-FR": {
+            "Text": "Nous avons fait un sacré bout de chemin ensemble ! Et nous allons récolter les fruits de ce travail.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Ha sido un largo camino hasta aquí, ¿verdad? Pues ahora todo empezará a cobrar sentido.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Wir haben zusammen viel erlebt und eine Menge durchgestanden, nicht wahr? Heute wird sich das alles auszahlen.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Insieme abbiamo fatto molta strada. Ora è giunto il tuo momento.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Daleko razem zaszliśmy, prawda? W tym momencie cała nauka zacznie się opłacać.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Nós chegamos longe juntos, não é mesmo? E é aqui que tudo valerá a pena.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Мы с вами прошли долгий путь, и сейчас самое время пожинать плоды!",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_Intro1_MALE": {
+        "UUID": "1cf9f134-19d5-42b2-86e8-4e393833c576",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Are you ready to go solo on a full VFR flight?"
+          },
+          "fr-FR": {
+            "Text": "Êtes-vous prêt à voler de vos propres ailes le temps d'un vol VFR complet ?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "¿Te ves capaz de emprender un vuelo VFR completo en solitario?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Sind Sie bereit für Ihren ersten Solo-Sichtflug?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Te la senti di affrontare un volo VFR in solitaria?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Czujesz się na siłach, by samodzielnie poprowadzić pełny lot VFR?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Você está pronto para ir sozinho em um voo em VFR completo?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Вы готовы совершить первый самостоятельный визуальный полёт?",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_Intro2": {
+        "UUID": "e5b23bb1-2cb5-4d4d-a675-7badba1710ce",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Are you ready for this? You are going solo on a full VFR flight."
+          },
+          "fr-FR": {
+            "Text": "Êtes-vous prêt ? Ce sera votre premier vol VFR complet en solo.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "¿Te ves capaz de hacerlo? Vas a emprender un vuelo VRF completo en solitario.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Sind Sie bereit? Sie stehen vor Ihrem allerersten Solo-Sichtflug.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Te la senti? Stai per eseguire un volo VFR in solitaria.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Czy czujesz się na siłach? Samodzielnie poprowadzisz pełny lot VFR.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Você está pronto? Você irá sozinho em um voo em VFR completo.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Вы готовы? Настало время для первого самостоятельного визуального полёта.",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_Intro2_MALE": {
+        "UUID": "8e125090-4d15-4d7b-b2b8-d87376503285",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Are you ready to go solo on a full VFR flight?"
+          },
+          "fr-FR": {
+            "Text": "Êtes-vous prêt à voler de vos propres ailes le temps d'un vol VFR complet ?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "¿Te ves capaz de emprender un vuelo VFR completo en solitario?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Sind Sie bereit für Ihren ersten Solo-Sichtflug?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Te la senti di affrontare un volo VFR in solitaria?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Czujesz się na siłach, by samodzielnie poprowadzić pełny lot VFR?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Você está pronto para ir sozinho em um voo em VFR completo?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Вы готовы совершить первый самостоятельный визуальный полёт?",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_Intro3": {
+        "UUID": "fc159917-98d5-439f-b044-d29e6e960c58",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "You'll be departing Flagstaff-Pulliam Airport, handling every navigational step on your way to Sedona. "
+          },
+          "fr-FR": {
+            "Text": "Vous allez quitter l'aéroport de Flagstaff Pulliam, et gérer chaque étape de navigation avant de rejoindre Sedona. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Despegarás desde el Aeropuerto de Flagstaff-Pulliam y ejecutarás todos los pasos de navegación hasta Sedona.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Sie fliegen vom Flagstaff-Pulliam Airport ab und landen wieder in Sedona. Die Navigation überlasse ich ganz Ihnen. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Partirai dall'Aeroporto di Flagstaff-Pulliam e ti occuperai di tutte le fasi di navigazione fino a Sedona. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Wyruszysz z lotniska Flagstaff-Pulliam i wykonasz wszystkie czynności nawigacyjne podczas lotu do Sedony. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Você vai partir do Aeroporto Flagstaff-Pulliam e cuidará de todos os passos de navegação em seu caminho para Sedona. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Вы отправляетесь из аэропорта Флагстафф-Пуллиам. По пути в Седону вам надо пройти все навигационные ориентиры. ",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_Intro3_MALE": {
+        "UUID": "eb69175e-92c0-4ca4-a7c3-0b20492bb69a",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "You'll be departing Flagstaff-Pulliam Airport, handling every navigational step on your way to Sedona. "
+          },
+          "fr-FR": {
+            "Text": "Vous allez quitter l'aéroport de Flagstaff Pulliam, et gérer chaque étape de navigation avant de rejoindre Sedona. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Despegarás desde el Aeropuerto de Flagstaff-Pulliam y ejecutarás todos los pasos de navegación hasta Sedona.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Sie fliegen vom Flagstaff-Pulliam Airport ab und landen wieder in Sedona. Die Navigation überlasse ich ganz Ihnen. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Partirai dall'Aeroporto di Flagstaff-Pulliam e ti occuperai di tutte le fasi di navigazione fino a Sedona. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Wyruszysz z lotniska Flagstaff-Pulliam i wykonasz wszystkie czynności nawigacyjne podczas lotu do Sedony. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Você vai partir do Aeroporto Flagstaff-Pulliam e cuidará de todos os passos de navegação em seu caminho para Sedona. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Вы отправляетесь из аэропорта Флагстафф-Пуллиам. По пути в Седону вам надо пройти все навигационные ориентиры. ",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_Intro4": {
+        "UUID": "d4088ce0-9386-40d3-b1a0-bc029717e406",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-04-15 18:16:26",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "From take-off to touch-down, it's all you."
+          },
+          "fr-FR": {
+            "Text": "Du décollage à l'atterrissage... à vous de vous débrouiller."
+          },
+          "es-ES": {
+            "Text": "Desde el despegue hasta el aterrizaje, te ocuparás de todo."
+          },
+          "de-DE": {
+            "Text": "Sie haben das Kommando – vom Start bis zur Landung."
+          },
+          "it-IT": {
+            "Text": "Dal decollo all'atterraggio, tutto con le tue sole forze."
+          },
+          "pl-PL": {
+            "Text": "Od startu po lądowanie – wszystko w twoich rękach."
+          },
+          "pt-BR": {
+            "Text": "Da decolagem ao pouso, está tudo nas suas mãos."
+          },
+          "ru-RU": {
+            "Text": "Весь полёт, от взлёта до посадки, вы проведёте самостоятельно."
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_Intro4_MALE": {
+        "UUID": "fc476998-45ae-4d6b-b2a1-124ec51c27ab",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-04-15 18:16:26",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Take-off to touch-down, and everything in between."
+          },
+          "fr-FR": {
+            "Text": "Décollage, atterrissage et tout le reste."
+          },
+          "es-ES": {
+            "Text": "Desde el despegue hasta el aterrizaje, pasando por todo lo demás."
+          },
+          "de-DE": {
+            "Text": "Vom Start bis zur Landung – und alles, was dazwischen liegt."
+          },
+          "it-IT": {
+            "Text": "Dal decollo all'atterraggio e tutto quello che c'è nel mezzo."
+          },
+          "pl-PL": {
+            "Text": "Start, lądowanie i wszystko, co pomiędzy."
+          },
+          "pt-BR": {
+            "Text": "Da decolagem ao pouso e tudo o que há entre os dois."
+          },
+          "ru-RU": {
+            "Text": "Каждый этап полёта, от взлёта до посадки, вы выполните сами."
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_Intro5": {
+        "UUID": "4c146d37-d0f5-4958-90f2-bc399932d577",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Don't worry though. Even if I'm not with you in the cockpit, I'm always with you in spirit."
+          },
+          "fr-FR": {
+            "Text": "Mais pas de panique. Je ne serai pas dans le cockpit, mais mon esprit vous accompagne.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Pero no te preocupes. Aunque no esté contigo en la cabina, mi espíritu siempre te acompañará.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Aber keine Angst. Selbst, wenn ich nicht im Cockpit sitze, bin ich doch im Geiste immer bei Ihnen.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Non preoccuparti. Non sarò con te nella cabina di pilotaggio, ma sarò con te con lo spirito.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Nie martw się. Nie będzie mnie z tobą w kokpicie, ale będę towarzyszyć ci duchem.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Não se preocupe. Mesmo que não esteja no cockpit, eu sempre estarei com você em espírito.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Главное — не волнуйтесь. Я всегда с вами и болею за вас, даже когда меня нет с вами в кабине.",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_Intro5_Alt": {
+        "UUID": "e4a624e9-24a0-4c74-a806-99a2dbdc89e9",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Don't worry though, just remember what we've learned already and this will be a piece of cake."
+          },
+          "fr-FR": {
+            "Text": "Mais pas de panique. N'oubliez pas les points que nous avons abordés, et ce sera de la tarte.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Pero no te preocupes. Tan solo recuerda lo aprendido hasta ahora y te resultará pan comido.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Aber keine Sorge, wenn Sie sich an das Gelernte halten, wird das ein Kinderspiel.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Non preoccuparti. Ricorda tutto quello che hai imparato e te la caverai.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Nie martw się. Jeśli przypomnisz sobie wszystko, czego się do tej pory nauczyliśmy, to będzie bułka z masłem.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Não se preocupe. Apenas lembre-se do que já aprendemos e isso vai ser mamão com açúcar.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Главное — не волнуйтесь. Помните о том, чему научились, и всё пройдёт как нельзя лучше!",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_Intro5_MALE": {
+        "UUID": "a0d1f335-7c55-4c09-9532-7222e21b86ec",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "This is what you've trained for. Just remember everything you've learned -- and most of all, enjoy the ride."
+          },
+          "fr-FR": {
+            "Text": "Vous pouvez compter sur votre formation. N'oubliez pas les points abordés, et surtout, profitez du voyage.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Para esto es paro lo que has entrenado. Simplemente recuerda todo lo aprendido... Y lo más importante, disfruta del viaje.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Dafür haben Sie trainiert. Denken Sie daran, was Sie gelernt haben – und genießen Sie auch den Flug.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Il tuo addestramento serve per questo. Ricorda tutto quello che hai imparato e, soprattutto, goditi il viaggio.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Po to właśnie było to szkolenie. Po prostu przypomnij sobie wszystkie lekcje i przede wszystkim baw się dobrze.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Foi para isso que você treinou. Apenas lembre-se de tudo que aprendeu e, mais importante, aproveite o passeio.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "У вас за плечами весь учебный курс. Вспомните, чему научились на занятиях, и самое главное — получите удовольствие от полёта!",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_Landing1": {
+        "UUID": "8458f4f3-7c47-4d99-b08f-d38134f4a6e5",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Welcome back -- and well done!"
+          },
+          "fr-FR": {
+            "Text": "Content de vous retrouver. Bien joué !",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Hola de nuevo... ¡y buen trabajo!",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Willkommen zurück – und gut gemacht!",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Felice di rivederti e... ben fatto!",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Witaj z powrotem – dobra robota!",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Bem-vindo de volta, e muito bem!",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "С возвращением! Вы отлично справились.",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_Landing1_MALE": {
+        "UUID": "907e991d-63b6-46c6-96ba-4d4e5709d7ec",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-04-15 18:16:26",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Excellent execution."
+          },
+          "fr-FR": {
+            "Text": "Excellente exécution."
+          },
+          "es-ES": {
+            "Text": "Una ejecución impecable."
+          },
+          "de-DE": {
+            "Text": "Ausgezeichnet."
+          },
+          "it-IT": {
+            "Text": "Esecuzione eccellente."
+          },
+          "pl-PL": {
+            "Text": "Doskonałe wykonanie."
+          },
+          "pt-BR": {
+            "Text": "Excelente execução."
+          },
+          "ru-RU": {
+            "Text": "Задание выполнено блестяще."
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_Outro1": {
+        "UUID": "4eae674d-e511-4181-8f40-d3026a5656a7",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "It's clear you're ready to fly anywhere on your own now. So where to next...?"
+          },
+          "fr-FR": {
+            "Text": "Vous pouvez voler n'importe où sans mon aide. Quelle sera votre prochaine destination ?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Está claro que ya podrías volar a cualquier lugar por tu propia cuenta. ¿Cuál será tu próximo destino?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Jetzt sind Sie bereit, überallhin zu fliegen. Also, wo soll’s denn als Nächstes hingehen?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Ora potrai volare dove desideri. Qual è la prossima destinazione?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Wygląda na to, że wszędzie możesz już latać samodzielnie. Więc gdzie chcesz się teraz udać...?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Está claro que você já pode voar sozinho para qualquer lugar. Então, qual é o próximo destino...?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Без всяких сомнений, вы готовы к самостоятельным полётам. Интересно, куда вы отправитесь дальше?",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_Outro1_MALE": {
+        "UUID": "7f6f4af6-d957-46cf-b4ef-1501fc826e01",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-04-15 18:16:26",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "You've proven you're ready to fly on your own."
+          },
+          "fr-FR": {
+            "Text": "Vous pouvez manifestement voler par vos propres moyens."
+          },
+          "es-ES": {
+            "Text": "Has demostrado que ya puedes volar por tu cuenta."
+          },
+          "de-DE": {
+            "Text": "Sie haben unter Beweis gestellt, dass man Sie allein ans Steuer lassen kann."
+          },
+          "it-IT": {
+            "Text": "Hai dimostrato di essere in grado di volare da solo."
+          },
+          "pl-PL": {
+            "Text": "Oto dowód, że możesz już latać samodzielnie."
+          },
+          "pt-BR": {
+            "Text": "Você provou que está pronto para voar sozinho."
+          },
+          "ru-RU": {
+            "Text": "Вы доказали, что готовы летать самостоятельно."
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_Outro2": {
+        "UUID": "d29ac076-a466-4a31-9c2c-f60f41ce96cc",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Some people say the sky's the limit. I say, it's just the beginning."
+          },
+          "fr-FR": {
+            "Text": "Il n'y a aucune limite à l'imagination. Surtout quand on a la tête dans les nuages.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Algunos dicen que el cielo es el límite. Yo digo que no es más que el principio.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Der Himmel ist jetzt Ihr persönlicher Spielplatz.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "C'è chi dice il limite è il cielo. Io dico che questo è solo l'inizio.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Jak to mówią, lecę bo chcę! Sądzę, że ty na pewno chcesz latać jak najwięcej.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Algumas pessoas dizem que o céu é o limite. Eu digo que ele é apenas o começo.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Кто-то не любит, когда другие витают в облаках. Я же поддерживаю вас в этом стремлении.",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_Outro2_MALE": {
+        "UUID": "5ae3c866-4512-4d94-82a4-8b37f8b3b980",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Only question is: Where do you want to go first?"
+          },
+          "fr-FR": {
+            "Text": "Une seule chose à faire : choisir une destination.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "La única pregunta es: ¿a dónde quieres ir en primer lugar?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Jetzt stellt sich nur noch die Frage, wo es hingehen soll!",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Solo una domanda: guardando il mappamondo, dove ti piacerebbe andare?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Jedyne pytanie brzmi – dokąd chcesz się udać w pierwszej kolejności?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "A única pergunta é: para onde quer ir primeiro?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Интересно, куда вы отправитесь первым делом?",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_UnexpectedLanding1": {
+        "UUID": "914fdeef-f902-44bf-8d7b-495ac4f8f708",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-04-15 18:16:26",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Hmm, you weren't really supposed to land there."
+          },
+          "fr-FR": {
+            "Text": "Euh... vous n'étiez pas censé atterrir ici."
+          },
+          "es-ES": {
+            "Text": "Vaya, se suponía que no tenías que aterrizar ahí."
+          },
+          "de-DE": {
+            "Text": "Oh, hier sollten Sie eigentlich nicht landen."
+          },
+          "it-IT": {
+            "Text": "Mh, non era lì che dovevi atterrare."
+          },
+          "pl-PL": {
+            "Text": "Hmm, to nie tutaj należało wylądować."
+          },
+          "pt-BR": {
+            "Text": "Hum, na verdade, não era para você pousar."
+          },
+          "ru-RU": {
+            "Text": "Хм, вообще мы с вами не планировали приземляться здесь."
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_UnexpectedLanding1_MALE": {
+        "UUID": "9234cb12-77ed-4e97-b04d-8f28e898fdb8",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-04-15 18:16:26",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Alright… Not quite where you were supposed to land. "
+          },
+          "fr-FR": {
+            "Text": "Bon... ce n'est pas vraiment votre piste d'atterrissage. "
+          },
+          "es-ES": {
+            "Text": "Bueno... La verdad es que no es ahí donde tenías que aterrizar."
+          },
+          "de-DE": {
+            "Text": "Okay … Hier hätten Sie eigentlich nicht landen sollen. "
+          },
+          "it-IT": {
+            "Text": "Beh... non proprio dove avresti dovuto atterrare. "
+          },
+          "pl-PL": {
+            "Text": "W porządku... Ale to nie tutaj należało wylądować. "
+          },
+          "pt-BR": {
+            "Text": "Certo… Não era exatamente onde você deveria pousar."
+          },
+          "ru-RU": {
+            "Text": "Хорошо, но… Здесь не нужно было приземляться. "
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_UnexpectedLanding2": {
+        "UUID": "9c70c28a-6b05-4f76-9b85-34f2d22e8c75",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "It's well done, don't get me wrong… just not what was expected."
+          },
+          "fr-FR": {
+            "Text": "Je ne vous jette pas la pierre, mais ce n'était pas prévu au programme...",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "A ver, no me malinterpretes... Simplemente no es como estaba previsto.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Eine gute Landung, aber leider nicht das, was ich erwartet hatte.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Non fraintendermi, hai fatto un buon lavoro... ma non era quello che mi aspettavo.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Nie zrozum mnie źle, poszło ci świetnie… ale nie o to chodziło.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Foi bem feito, não me entenda mal… só não foi o que eu esperava.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Поймите правильно… Посадка прошла успешно, но задача была не совсем такой.",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_UnexpectedLanding2_MALE": {
+        "UUID": "747e3aa2-10ae-45a1-a8b0-f96f88fdaee6",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-04-15 18:16:26",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "It's not the end of the world, just unexpected."
+          },
+          "fr-FR": {
+            "Text": "Rien de dramatique, mais ce n'était pas prévu."
+          },
+          "es-ES": {
+            "Text": "No es el fin del mundo, pero estaba previsto de otro modo."
+          },
+          "de-DE": {
+            "Text": "Das ist jetzt kein Weltuntergang, es kommt nur etwas unerwartet."
+          },
+          "it-IT": {
+            "Text": "Non è la fine del mondo, solo un po' inaspettato."
+          },
+          "pl-PL": {
+            "Text": "Świat się nie zawalił, to tylko nieoczekiwany problem."
+          },
+          "pt-BR": {
+            "Text": "Não é o fim do mundo, só foi um pouco inesperado."
+          },
+          "ru-RU": {
+            "Text": "Ничего страшного не случилось, но это было неожиданно."
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_UnexpectedLanding3": {
+        "UUID": "4dacf6a7-5a28-454f-8cc4-b90e686a42e3",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "At this point I think it's probably best if we start the lesson over."
+          },
+          "fr-FR": {
+            "Text": "À ce stade, je pense qu'il serait préférable de recommencer la leçon.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Creo que ahora mismo lo mejor sería volver a repetir la lección.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "An dieser Stelle wäre es wohl das Beste, wenn wir die Lektion neu beginnen.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "A questo punto credo sarebbe meglio se ricominciassimo la lezione da capo.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Chyba najlepiej będzie, jeśli zaczniemy lekcję od początku.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Nesse ponto, acho que seria melhor recomeçarmos a lição.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Поэтому я думаю, что лучше всего начать урок заново.",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Dlg_UnexpectedLanding3_MALE": {
+        "UUID": "b0b51afe-294b-4f17-9a2d-90c117cbac24",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-04-15 18:16:26",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Don't worry, we can start the lesson over again."
+          },
+          "fr-FR": {
+            "Text": "Pas d'inquiétude, nous pouvons reprendre le cours."
+          },
+          "es-ES": {
+            "Text": "No te preocupes, podemos repetir de nuevo la lección."
+          },
+          "de-DE": {
+            "Text": "Keine Sorge, wir können die Lektion noch einmal von vorn beginnen."
+          },
+          "it-IT": {
+            "Text": "Non preoccuparti, possiamo ripetere la lezione."
+          },
+          "pl-PL": {
+            "Text": "Nie martw się, możemy zacząć lekcję od początku."
+          },
+          "pt-BR": {
+            "Text": "Não se preocupe, podemos recomeçar a lição."
+          },
+          "ru-RU": {
+            "Text": "Переживать не стоит, ведь мы можем начать урок сначала."
+          }
+        }
+      },
+      "FirstNavigationSolo.Failed_Training": {
+        "UUID": "37397a7d-a7d1-485d-b882-f3f547f1c6c8",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "You failed to complete the lesson."
+          },
+          "fr-FR": {
+            "Text": "Vous n'avez pas réussi à terminer la leçon.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "No has logrado completar la lección.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Sie haben es nicht geschafft, die Flugstunde abzuschließen.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Non hai completato la lezione.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Nie udało ci się ukończyć lekcji.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Você não conseguiu completar a lição.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Вам не удалось завершить урок.",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.GOAL_DeparturePrep": {
+        "UUID": "ce20f218-4dd4-4a3d-9fc3-1f9700c35f31",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Departure Preparations"
+          },
+          "fr-FR": {
+            "Text": "Préparatifs de départ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Preparativos de salida",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Abflugvorbereitungen",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Preparativi per la partenza",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Przygotowania do odlotu",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Preparativos para a Partida",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Подготовка к вылету",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.GOAL_Landing": {
+        "UUID": "8a0fe0a9-ea9c-4f09-9fd7-9f7ebedb8a63",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Land On Runway 3"
+          },
+          "fr-FR": {
+            "Text": "Atterrir sur la piste 3",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Aterrizar en la pista 3",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Landen Sie auf Landebahn 3",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Atterra sulla pista 3",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Wyląduj na pasie 3",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Pouse na Pista 3",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Приземлитесь на ВПП 3",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.GOAL_NavNextWP": {
+        "UUID": "d2a74b5c-c3ae-499a-8843-024787da38f9",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Reach Next Navlog Waypoint"
+          },
+          "fr-FR": {
+            "Text": "Atteindre le point de cheminement Navlog suivant",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Alcanzar el siguiente punto de recorrido del registro de navegación",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Erreichen Sie den nächsten NavLog-Wegpunkt",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Raggiungi il prossimo punto di via del registro di navigazione",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Dotrzyj do następnego punktu z dziennika nawigacyjnego",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Chegue ao Próximo Ponto de Referência do Navlog",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Доберитесь до следующей путевой точки штурманского журнала",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.GOAL_NavSedona": {
+        "UUID": "2351d2fb-aa0f-45e8-ac31-8196e5bb2141",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Reach Sedona Airspace"
+          },
+          "fr-FR": {
+            "Text": "Atteindre l'espace aérien de Sedona",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Llegar al espacia aéreo de Sedona",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Erreichen Sie den Luftraum von Sedona",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Raggiungi lo spazio aereo di Sedona",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Dotrzyj do przestrzeni powietrznej Sedony",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Chegue ao Espaço Aéreo de Sedona",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Доберитесь до воздушного пространства Седоны",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.GOAL_TakeOff": {
+        "UUID": "d8aba504-7faf-4f51-9624-815a24b8c753",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Take-Off Runway 3"
+          },
+          "fr-FR": {
+            "Text": "Décoller de la piste 3",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Despegar de la pista 3",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Starten Sie von Startbahn 3",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Pista di decollo 3",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Wystartuj z pasa 3",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Decole na Pista 3",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Взлетайте с ВПП 3",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.GOAL_TrafficPattern": {
+        "UUID": "b2fbc601-1d24-4998-803b-5b7a403e35cc",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Enter Traffic Pattern"
+          },
+          "fr-FR": {
+            "Text": "Entrer sur le circuit d'aérodrome",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Acceder al circuito de tránsito",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Leiten Sie eine Platzrunde ein",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Entra nel circuito di pista",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Wejdź w krąg nadlotniskowy",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Entre no Circuito de Tráfego",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Войдите в схему захода на посадку",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Munds_Park": {
+        "UUID": "0e1d97c0-eb3e-413c-820e-748b469e2d72",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Go South, keeping Highway 17 on your right, until you reach Munds Park Country Club"
+          },
+          "fr-FR": {
+            "Text": "Partir vers le sud en tenant la route Highway 17 sur la droite, jusqu'à atteindre Munds Park Country Club",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Dirígete al sur mientras mantienes la Autopista 17 a tu derecha hasta llegar al Munds Park Country Club",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Halten Sie sich südlich und links vom Highway 17, bis Sie den Munds Park Country Club erreichen",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Dirigiti a sud, mantenendo l'autostrada 17 alla tua destra, finché non raggiungi il Munds Park Country Club",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Kieruj się na południe, utrzymując autostradę nr 17 po swojej prawej stronie, aż zobaczysz Country Club w Munds Park",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Vá para Sul, mantendo a Highway 17 à sua direita, até que você chegue ao Munds Park Country Club",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Летите на юг так, чтобы автострада 17 была справа от вас, пока не доберётесь до Мундс-Парк-Кантри-Клаб",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Sedona": {
+        "UUID": "c6a5a1be-8229-426f-96a2-bfafcaae4c28",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Go South West toward Cococino plateau until you reach Sedona"
+          },
+          "fr-FR": {
+            "Text": "Se diriger vers le sud-ouest en direction du plateau de Coconino jusqu'à atteindre Sedona",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Dirígete al suroeste hacia la meseta de Cococino hasta llegar a Sedona",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Fliegen Sie nach Südwesten in Richtung Cococino-Plateau, bis Sie Sedona erreichen",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Vai a sud-ovest verso l'altopiano di Coconino finché non arrivi a Sedona",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Kieruj się na południowy zachód w kierunku płaskowyżu Coconino aż dolecisz do Sedony",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Vá para sudoeste em direção ao planalto de Cococino, até chegar a Sedona",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Летите на юго-запад к плато Коконино, пока не доберётесь до Седоны",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.STEP_Altitude": {
+        "UUID": "20702894-612d-41fb-98f8-6ff31cd02bb8",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Climb around the Airport to reach 8000 feet"
+          },
+          "fr-FR": {
+            "Text": "Prendre de l'altitude autour de l'aéroport jusqu'à atteindre 8 000 pieds",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Asciende en las inmediaciones del aeropuerto hasta alcanzar los 8000 pies",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Um den Flugplatz herum an Höhe gewinnen, bis Sie 8000 Fuß erreicht haben",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Dall'Aeroporto sali per raggiungere gli 8.000 piedi",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Wznoś się wokół lotniska, by osiągnąć 8000 stóp",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Suba ao redor do aeroporto para chegar a 8.000 pés",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Рядом с аэропортом наберите высоту 8000 футов",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.STEP_Base": {
+        "UUID": "830a48fa-05ad-47c0-8fe1-4558d7d47bbb",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Turn for Base Leg"
+          },
+          "fr-FR": {
+            "Text": "Virer en étape de base",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Gira hacia el tramo básico",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Für den Queranflug wenden",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Vira per il tratto base",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Skręć w odcinek po trzecim zakręcie",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Vire para Perna Base",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Выполните третий разворот",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.STEP_CruiseAttitude": {
+        "UUID": "b0a9421e-d3c2-46f1-865d-94741a2158d0",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Set Cruise Attitude"
+          },
+          "fr-FR": {
+            "Text": "Régler l'assiette de croisière",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Establece actitud de crucero",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Reisefluglage festlegen",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Imposta l'assetto di crociera",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Ustaw pochylenie odpowiednie dla prędkości przelotowej",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Defina Atitude de Cruzeiro",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Перейдите в крейсерский режим",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.STEP_Downwind": {
+        "UUID": "7917eac2-7ec1-4cc7-8421-7385bb28949c",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Enter Downwind Leg"
+          },
+          "fr-FR": {
+            "Text": "Entrer sur le parcours vent arrière",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Comienza el tramo a favor del viento",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Gegenanflug beginnen",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Entra nel tratto sottovento",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Wejdź w odcinek z wiatrem",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Entre para Perna do Vento",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Войдите на участок после второго разворота",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.STEP_Final": {
+        "UUID": "c14534b1-bce3-4663-9842-ef3790cfabb9",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Turn for Final Approach"
+          },
+          "fr-FR": {
+            "Text": "Virer pour l'approche finale",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Gira hacia la aproximación final",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Für den Endanflug wenden",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Vira per avvicinamento finale",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Zakręć, by wejść na prostą do lądowania",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Vire para a Aproximação Final",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Выполните разворот на предпосадочную прямую",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.STEP_Gyroscrope": {
+        "UUID": "39ad0c05-8e08-4c3d-abbd-7ca40b9163ba",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Set Directional Gyroscope"
+          },
+          "fr-FR": {
+            "Text": "Régler le gyroscope directionnel",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Ajusta el giroscopio direccional",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Kurskreisel einstellen",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Imposta giroscopio direzionale",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Ustaw żyrokompas",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Defina Giroscópio Direcional",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Выставите курс на гирокомпасе",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.STEP_Landing": {
+        "UUID": "a2d66c18-6129-4a82-b908-94d86933e6df",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Land the Aircraft"
+          },
+          "fr-FR": {
+            "Text": "Atterrir",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Aterriza la aeronave",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Das Flugzeug landen",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Atterra",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Wyląduj",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Pouse a Aeronave",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Посадите судно",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.STEP_NavNextWP": {
+        "UUID": "8439e230-a32c-4dbf-9224-d7b33de62522",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Reach Munds Park Golf Club"
+          },
+          "fr-FR": {
+            "Text": "Atteindre Munds Park Golf Club",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Llega al Munds Park Golf Club",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Munds Park Golf Club erreichen",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Raggiungi il Munds Park Golf Club",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Doleć do klubu golfowego w Munds Park",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Chegue ao Munds Park Golf Club",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Доберитесь до Мундс-Парк-Гольф-Клаб",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.STEP_NavSedona": {
+        "UUID": "8bb28d1b-12f1-4dd3-863f-be52fad22f0a",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Reach Sedona airport"
+          },
+          "fr-FR": {
+            "Text": "Atteindre l'aéroport de Sedona",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Llega al aeropuerto de Sedona",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Den Flugplatz Sedona erreichen",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Raggiungi l'Aeroporto di Sedona",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Doleć do portu lotniczego Sedona",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Chegue ao Aeroporto de Sedona",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Доберитесь до аэропорта Седона",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.STEP_Position": {
+        "UUID": "a3a2edb7-84e5-48e5-98ef-513dc0e9b9cf",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Position Aircraft before Enter Traffic Pattern"
+          },
+          "fr-FR": {
+            "Text": "Positionner l'avion avant d'entrer sur le circuit d'aérodrome",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Posiciona la aeronave antes de acceder al circuito de tránsito",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Flugzeug vor dem Einflug in die Platzrunde positionieren",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Posiziona l'aeromobile prima di entrare nel circuito di pista",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Ustaw samolot w odpowiednim położeniu przed wejściem w krąg nadlotniskowy",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Posicione a Aeronave antes de entrar no Circuito de Tráfego",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Стабилизируйте судно перед входом в схему",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.STEP_PositionRunway": {
+        "UUID": "6e2cc15a-3809-4987-8074-397773335774",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Position Aircraft above Runway Center"
+          },
+          "fr-FR": {
+            "Text": "Positionner l'avion au-dessus du centre de piste",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Posiciona la aeronave sobre el centro de la pista",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Flugzeug über der Mitte der Landebahn positionieren",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Posiziona l'aeromobile al centro della pista",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Ustaw samolot nad środkiem pasa startowego",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Posicione a Aeronave acima do Centro da Pista",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Расположите судно над осевой линией ВПП",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.STEP_ResetTime": {
+        "UUID": "ea16ba8e-f97c-4efe-a254-468425d42c97",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Restart Stopwatch"
+          },
+          "fr-FR": {
+            "Text": "Redémarrer le chronomètre",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Reinicia el cronómetro",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Stoppuhr neu starten",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Riavvia cronometro",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Uruchom stoper ponownie",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Reiniciar Cronômetro",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Снова запустите секундомер",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.STEP_TakeOff": {
+        "UUID": "36970ad7-116d-455f-8ea7-3c2c5d03f72d",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Take-Off"
+          },
+          "fr-FR": {
+            "Text": "Décollage",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Despega",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Starten",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Decollo",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Start",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Decolagem",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Выполните взлёт",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.STEP_ValidateTime": {
+        "UUID": "256b78f9-a515-4ac6-ad9b-608659ffb415",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Start Stopwatch"
+          },
+          "fr-FR": {
+            "Text": "Démarrer le chronomètre",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Inicia el cronómetro",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Stoppuhr starten",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Avvia cronometro",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Uruchom stoper",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Iniciar Cronômetro",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Запустите секундомер",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Title": {
+        "UUID": "23ada5fd-1c19-4012-a44c-bb0d9dac4f33",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "First Solo Navigation Training"
+          },
+          "fr-FR": {
+            "Text": "Formation à la première navigation en solo",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Primer entrenamiento de navegación en solitario",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Training: Erste Solonavigation",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Primo addestramento di navigazione in solitaria",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Szkolenie „Pierwsza samodzielna nawigacja”",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Primeiro Treinamento de Navegação Solo",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Первый урок по самостоятельной навигации",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "FirstNavigationSolo.Training_Complete": {
+        "UUID": "143b13e1-4835-45ca-8a31-604fc7da23c1",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:42",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Complete First Solo Navigation Training"
+          },
+          "fr-FR": {
+            "Text": "Terminer la formation à la première navigation en solo",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Completa el primer entrenamiento de navegación en solitario",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Training: Erste Solonavigation abschließen",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Completa il primo addestramento in solitaria",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Ukończ szkolenie „Pierwsza samodzielna nawigacja”",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Complete o Primeiro Treinamento de Navegação Solo",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Завершите первый урок по самостоятельной навигации",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      }
+    }
+  }
+}
