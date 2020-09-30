@@ -25,3 +25,4 @@ Steam版路径:<br>
 3.  提交代码
 4.  新建 Pull Request
 
+感谢群友 CSS8778 测试和提供资料
