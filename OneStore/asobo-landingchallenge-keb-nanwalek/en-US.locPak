@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LC_Nanwalek_Briefing1": "兰瓦勒克机场是一座州属公用机场，它位于阿拉斯加州基奈半岛县一个名叫兰瓦勒克（英吉利湾）的非自治社区，曾被称为英吉利湾机场。在美国短途航线起落的跑道之中，这里的跑道是公认的全美最短，且仅有一条砾石跑道。",
+      "MENU.LANDINGCHALLENGE.NAME_NANWALEK": "兰瓦勒克",
+      "MENU.LANDINGCHALLENGE.NAME_NANWALEK_Descr": "美国兰瓦勒克机场(KEB)"
+    }
+  }
+}

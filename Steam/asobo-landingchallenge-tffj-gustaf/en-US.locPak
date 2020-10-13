@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LC_StBarth_Briefing1": "古斯塔夫三世机场是一处公用机场，位于加勒比海圣巴泰勒米岛上的圣让村。这里短小的水泥跑道位于一处缓坡的底部，跑道的终点即是沙滩。在此处降落需要从丘顶的交通圈下行，航道落差颇大。",
+      "MENU.LANDINGCHALLENGE.NAME_SAINTBARTHELEMY": "圣巴泰勒米岛",
+      "MENU.LANDINGCHALLENGE.NAME_SAINTBARTHELEMY_Descr": "法属安地列斯群岛古斯塔夫三世机场(TFFJ)"
+    }
+  }
+}

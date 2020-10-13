@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LC_Bugalaga_Briefing1": "布加拉加简易机场位于印度尼西亚的布加拉加，其砾石跑道用于进行空中滑行。离这里最近的城镇处于60英里之外，中间还隔有密林。",
+      "MENU.LANDINGCHALLENGE.NAME_BUGALAGA": "布加拉加",
+      "MENU.LANDINGCHALLENGE.NAME_BUGALAGA_Descr": "印度尼西亚布加拉加简易机场(WX53)"
+    }
+  }
+}

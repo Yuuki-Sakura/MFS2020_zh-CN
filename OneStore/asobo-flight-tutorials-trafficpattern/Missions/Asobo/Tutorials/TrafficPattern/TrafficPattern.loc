@@ -1,0 +1,3219 @@
+{
+  "LocalisationFile": {
+    "Version": 2,
+    "UUID": "afc1b028-dfc8-4768-bdd1-645a1814d28e",
+    "Languages": [
+      "en-US",
+      "fr-FR",
+      "es-ES",
+      "de-DE",
+      "it-IT",
+      "pl-PL",
+      "pt-BR",
+      "ru-RU",
+      "zh-CN"
+    ],
+    "Strings": {
+      "TrafficPattern.Briefing": {
+        "UUID": "67ecbaa0-6566-45e0-8688-886713835821",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-17 13:54:58",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "起落航线是航空器起飞与降落时遵循的标准航线，在飞行过程中，飞行员全程保持机场在可视范围之内。\n<br/>\n<br/>机场起落航线有助于确保航空安全。通过统一遵循一条恒定不变的航线，各飞行员将对其他航空器的出现保有心理预期，从而能够随时发现并避开它们。\n<br/>起落航线的每一边都有自己的名称：\n<br/><li>起始爬升（第一边）</li>\n<br/><li>侧风边（第二边）</li>\n<br/><li>下风边（第三边）</li>\n<br/><li>基本边（第四边）</li>\n<br/><li>最终进近（最终边）</li><br/>",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Le circuit d'aérodrome est un chemin standard que suit l'aéronef au décollage ou à l'atterissage tout en maintenant un contact visuel avec l'aérodrome.\n<br/>\n<br/>Il s'agit d'une mesure de sécurité aérienne. En utilisant un plan de vol constant, les pilotes savent d'où vient le trafic et sont capables de le voir et de l'éviter.\n<br/>Chaque étape porte un nom distinct :\n<br/><li> Montée initiale</li>\n<br/><li> Vent latéral</li>\n<br/><li>Vent arrière</li>\n<br/><li> Base</li>\n<br/><li> Finale</li><br/>",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "El circuito de tránsito de aeródromo es una ruta estándar que sigue la aeronave cuando despega o aterriza mientras se mantiene el contacto visual con el aeródromo.\n<br/>\n<br/>El uso de una ruta en los aeródromos es por seguridad aérea. Mediante el uso de una ruta de vuelo consistente, los pilotos sabrán por dónde esperar tránsito aéreo y podrán ser capaz de verlo y evitarlo.\n<br/>Cada tramo de la ruta tiene un nombre diferente :\n<br/><li> Ascenso inicial</li>\n<br/><li> Viento de costado</li>\n<br/><li>Tramo a favor del viento</li>\n<br/><li> Base</li>\n<br/><li> Tramo final</li><br/>",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Die Platzrunde ist ein standardisierter Pfad, der von Flugzeugen genommen wird, wenn diese bei visuellem Kontakt mit dem Flugfeld starten oder landen.\n<br/>\n<br/>Die Verwendung der Platzrunde ist der Luftfahrtsicherheit geschuldet. Durch das Einhalten eines konsistenten Flugplans wissen Piloten, wo sie sich auf anderen Luftverkehr einstellen müssen, und sind in der Lage, diesen zu sehen und entsprechend zu interagieren.\n<br/>Jedes Element der Platzrunde besitzt einen unterschiedlichen Namen:\n<br/><li> Anfangssteigflug</li>\n<br/><li> Querabflug</li>\n<br/><li> Gegenanflug</li>\n<br/><li> Queranflug</li>\n<br/><li> Endanflug</li><br/>",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Il circuito di pista è un percorso standard che si segue a bordo dell'aeromobile durante il decollo o l'atterraggio, mantenendo il contatto visivo con l'aeroporto.\n<br/>\n<br/>Il circuito negli aeroporti viene utilizzato per ragioni di sicurezza aerea. Tramite il circuito di volo, i piloti sapranno la direzione del traffico aereo in arrivo e potranno evitarlo.\n<br/>Ogni tratto del circuito ha un nome diverso:\n<br/><li> salita iniziale</li>\n<br/><li> vento trasversale</li>\n<br/><li>sottovento</li>\n<br/><li> baselt;/li>\n<br/><li> avvicinamento finale</li><br/>",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Krąg nadlotniskowy to standardowy tor lotu, po którym poruszają się startujące i lądujące samoloty, zachowując kontakt wzrokowy z lotniskiem.\n<br/>\n<br/>Krąg nadlotniskowy służy bezpieczeństwu latania. Poruszając się po ustalonym torze, piloci wiedzą, skąd mogą nadlatywać inne statki powietrzne, co ułatwia ich dostrzeganie i unikanie.\n<br/>Każdy bok kręgu nadlotniskowego ma swoją nazwę:\n<br/><li> wznoszenie początkowe,</li>\n<br/><li> po pierwszym zakręcie,</li>\n<br/><li>z wiatrem,</li>\n<br/><li> po trzecim zakręcie</li>\n<br/><li> na prostej do lądowania</li><br/>",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "O padrão de tráfego é um caminho padrão seguido pela aeronave ao decolar ou pousar, mantendo contato visual com o aeródromo.\n<br/>\n<br/>O uso de um padrão nos aeródromos é para a segurança da aviação. Ao usarem um padrão de voo consistente, os pilotos saberão de onde esperar outro tráfego aéreo e poderão vê-lo e evitá-lo.\n<br/>Cada perna do padrão tem um nome diferente:\n<br/><li> Subida inicial</li>\n<br/><li> Vento cruzado</li>\n<br/><li>Perna do vento</li>\n<br/><li> Base</li>\n<br/><li> Aproximação final</li><br/>",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Схема движения — это стандартная траектория, по которой следуют воздушные суда при взлёте или посадке, сохраняя визуальный контакт с аэродромом.\n<br/>\n<br/>Схемы движения на аэродромах обеспечивают безопасность полётов. Используя постоянные схемы движения, пилоты будут знать, откуда ожидать другие воздушные суда, смогут увидеть их и избежать столкновения.\n<br/>У каждого участка схемы есть своё название:\n<br/><li> Начальный набор высоты</li>\n<br/><li> Первый разворот</li>\n<br/><li> Второй разворот</li>\n<br/><li> Третий разворот</li>\n<br/><li> Четвёртый разворот</li><br/>",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "起落航线是航空器起飞与降落时遵循的标准航线，在飞行过程中，飞行员全程保持机场在可视范围之内。\n<br/>\n<br/>机场起落航线有助于确保航空安全。通过统一遵循一条恒定不变的航线，各飞行员将对其他航空器的出现保有心理预期，从而能够随时发现并避开它们。\n<br/>起落航线的每一边都有自己的名称：\n<br/><li>起始爬升（第一边）</li>\n<br/><li>侧风边（第二边）</li>\n<br/><li>下风边（第三边）</li>\n<br/><li>基本边（第四边）</li>\n<br/><li>最终进近（最终边）</li><br/>",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Base1": {
+        "UUID": "15405366-9af3-4ce2-8795-9631ff1482a1",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "很好，现在减小发动机功率，进入怠速状态，降低高度，全程保持65节的速度。",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Bien, réduisez la puissance jusqu'à plein réduit pour perdre de l'altitude, et maintenez l'assiette de croisière.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Muy bien, ahora reduce la potencia a ralentí para empezar a perder altitud y mantén actitud de crucero.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Alles klar. Gehen Sie in den Leerlauf über, um an Höhe zu verlieren. Behalten Sie dabei aber Reisefluglage bei.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Bene, riduci la potenza al minimo per cominciare a perdere altitudine e mantieni l'assetto di crociera.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Dobrze, zmniejsz moc do obrotów jałowych, by rozpocząć zniżanie, i utrzymuj pochylenie odpowiednie dla prędkości przelotowej.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Agora, reduza a potência para marcha lenta para começar a perder altitude e mantenha a atitude de cruzeiro.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Хорошо. Сбросьте мощность до малого газа для начала снижения и поддерживайте крейсерский режим.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "很好，现在减小发动机功率，进入怠速状态，降低高度，全程保持65节的速度。",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Base1_MALE": {
+        "UUID": "2b7146b1-1618-46ff-bafb-3c97edfd337a",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Now, reduce power to idle. Start losing Altitude while you maintain Cruise Attitude.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Réduisez la puissance jusqu'à plein réduit pour perdre de l'altitude, et maintenez l'assiette de croisière.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Ahora reduce la potencia al ralentí. Querrás perder altitud mientras mantienes una actitud de crucero.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Gehen Sie jetzt in den Leerlauf über, um an Höhe zu verlieren. Behalten Sie dabei aber die Reisefluglage bei.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Riduci la potenza al minimo. Cominciare a perdere quota e mantieni l'assetto di crociera.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Zmniejsz moc do biegu jałowego. Teraz musisz zmniejszyć wysokość, jednocześnie zachowując pochylenie odpowiednie dla prędkości przelotowej.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Agora, reduza a potência para marcha lenta. Sua intenção é perder altitude enquanto mantém atitude de cruzeiro.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Теперь снизьте мощность до малого газа. Поддерживая крейсерский режим, начинайте снижение.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "Now, reduce power to idle. Start losing Altitude while you maintain Cruise Attitude.",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Base2": {
+        "UUID": "24199233-3edd-409a-9e7e-d916748c581e",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "dmedina",
+        "LastModifiedDate": "2020-07-01 11:55:28",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "记住，对于塞斯纳172，理想的降落速度是65节。"
+          },
+          "fr-FR": {
+            "Text": "Gardez un œil sur la piste et préparez-vous au dernier virage."
+          },
+          "es-ES": {
+            "Text": "No pierdas de vista la pista mientras nos preparamos para el último giro..."
+          },
+          "de-DE": {
+            "Text": "Lassen Sie die Landebahn nicht aus den Augen, um die letzte Kurve nicht zu verpassen …"
+          },
+          "it-IT": {
+            "Text": "Tieni d'occhio la pista mentre ti prepari per la virata finale..."
+          },
+          "pl-PL": {
+            "Text": "Patrz na pas, gdy przygotowujemy się do skrętu na prostą do lądowania…"
+          },
+          "pt-BR": {
+            "Text": "Fique de olho na pista e esteja pronto para a nossa curva final…"
+          },
+          "ru-RU": {
+            "Text": "Мы готовимся к четвёртому развороту. Следите за полосой…"
+          },
+          "zh-CN": {
+            "Text": "记住，对于塞斯纳172，理想的降落速度是65节。"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Base2_MALE": {
+        "UUID": "7924d470-5402-42e6-a354-e8719f122874",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "dmedina",
+        "LastModifiedDate": "2020-07-01 11:55:28",
+        "Languages": {
+          "en-US": {
+            "Text": "Keep an eye on the runway as you prepare for your final turn…"
+          },
+          "fr-FR": {
+            "Text": "Gardez un œil sur la piste et préparez-vous au dernier virage..."
+          },
+          "es-ES": {
+            "Text": "No pierdas de vista la pista mientras te preparas para el último giro..."
+          },
+          "de-DE": {
+            "Text": "Lassen Sie die Landebahn nicht aus den Augen, die letzte Kurve steht bevor …"
+          },
+          "it-IT": {
+            "Text": "Tieni d'occhio la pista mentre ti prepari per la virata finale..."
+          },
+          "pl-PL": {
+            "Text": "Patrz na pas podczas przygotowywania do skrętu na prostą do lądowania…"
+          },
+          "pt-BR": {
+            "Text": "Fique de olho na pista e esteja pronto para a curva final…"
+          },
+          "ru-RU": {
+            "Text": "Готовясь к четвёртому развороту, следите за полосой…"
+          },
+          "zh-CN": {
+            "Text": "Keep an eye on the runway as you prepare for your final turn…"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Base3": {
+        "UUID": "41d9645c-09b2-48bc-9a50-1e0224dfe344",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "dmedina",
+        "LastModifiedDate": "2020-07-01 11:55:28",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "随时注意跑道，准备好最后一次转弯。"
+          },
+          "fr-FR": {
+            "Text": "On va garder une vitesse d'environ 65 nœuds."
+          },
+          "es-ES": {
+            "Text": "Así también mantendrás la velocidad a unos 65 nudos."
+          },
+          "de-DE": {
+            "Text": "Damit sollte unsere Geschwindigkeit auch stabil bei 65 Knoten bleiben."
+          },
+          "it-IT": {
+            "Text": "Questo manterrà la nostra velocità attorno ai 65 nodi."
+          },
+          "pl-PL": {
+            "Text": "Dzięki temu będziemy również utrzymywać prędkość około 65 węzłów."
+          },
+          "pt-BR": {
+            "Text": "Isso também manterá nossa velocidade em cerca de 65 nós."
+          },
+          "ru-RU": {
+            "Text": "В этом случае скорость будем удерживать в районе 65 узлов."
+          },
+          "zh-CN": {
+            "Text": "随时注意跑道，准备好最后一次转弯。"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Base3_MALE": {
+        "UUID": "15891ad1-a264-4a8c-ab1d-38614258cea1",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "akeyte",
+        "LastModifiedDate": "2020-06-08 12:50:29",
+        "Languages": {
+          "en-US": {
+            "Text": "Your speed should be holding at approximately 65 knots."
+          },
+          "fr-FR": {
+            "Text": "Votre vitesse devrait se situer autour de 65 nœuds."
+          },
+          "es-ES": {
+            "Text": "Tu velocidad debería mantenerse a unos 65 nudos."
+          },
+          "de-DE": {
+            "Text": "Sie sollten eine Geschwindigkeit von etwa 65 Knoten beibehalten."
+          },
+          "it-IT": {
+            "Text": "La tua velocità dovrebbe essere stabile a circa 65 nodi."
+          },
+          "pl-PL": {
+            "Text": "Prędkość powinna utrzymywać się na poziomie około 65 węzłów."
+          },
+          "pt-BR": {
+            "Text": "Sua velocidade deve ser mantida em cerca de 65 nós."
+          },
+          "ru-RU": {
+            "Text": "Вам нужно удерживать скорость около 65 узлов."
+          },
+          "zh-CN": {
+            "Text": "Your speed should be holding at approximately 65 knots."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Downwind1": {
+        "UUID": "5c4b2697-810f-4065-be04-e4d98d29ad2a",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "很好，操作完全正确！",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Le vent est derrière nous. On est sur la bonne voie...",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Ahora tenemos el viento detrás, vamos en la dirección correcta...",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Jetzt haben wir Rückenwind. Sieht doch gut aus …",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Abbiamo il vento alle nostre spalle, siamo sulla rotta giusta...",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Mamy teraz wiatr za plecami. Dobrze nam idzie…",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "O vento está nas nossas costas, agora. Estamos no caminho certo...",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Ветер дует в спину. Отлично, мы на верном пути.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "很好，操作完全正确！",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Downwind1_MALE": {
+        "UUID": "0682a342-e55b-45be-8026-16824f98f9b0",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "You're in the Downwind Leg, good. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Bien, vous êtes dans la branche vent arrière.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Bien. Estás en el tramo a favor del viento.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Sehr gut. Sie befinden sich jetzt im Gegenanflug.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Bene, ti trovi nel tratto sottovento.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Świetnie. Jesteś na odcinku z wiatrem.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Ótimo. Você está na perna do vento.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Отлично. Вы вышли на участок после второго разворота.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "You're in the Downwind Leg, good. ",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Downwind2": {
+        "UUID": "d529db58-e1d3-44c2-99ce-399c0f8e75f4",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "现在下沉机头，进入巡航姿态，将发动机转速降至2100转每分钟。",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Piquez ensuite pour revenir à une assiette de croisière, puis réduisez le régime à 2 100 tr/min.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Ahora baja el morro a una actitud de crucero y reduce la potencia a 2100 RPM.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Senken Sie jetzt die Nase ab, um die Reisefluglage einzunehmen, und verringern Sie die Leistung auf 2100 RPM.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Abbassa il muso a un assetto di crociera e riduci la potenza a 2.100 giri al minuto.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Teraz opuść dziób do pochylenia odpowiedniego dla prędkości przelotowej i zmniejsz moc do 2100 obr./min.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Agora, abaixe o nariz para uma atitude de cruzeiro e reduza a potência para 2.100 RPM.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Теперь опустите нос, чтобы войти в крейсерский режим, и сбавьте обороты до 2100 об/мин.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "现在下沉机头，进入巡航姿态，将发动机转速降至2100转每分钟。",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Downwind2_MALE": {
+        "UUID": "d8637849-767c-42bf-8188-a0613690fb97",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Lower your nose to a cruise attitude and reduce power to 2,100 RPMs.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Piquez pour revenir à une assiette de croisière, puis réduisez le régime à 2 100 tr/min.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Ahora baja el morro hasta una actitud de crucero y reduce la potencia a 2100 RPM.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Senken Sie jetzt die Nase ab, um die Reisefluglage einzunehmen, und verringern Sie den Schub auf 2100 RPM.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Abbassa il muso a un assetto di crociera e riduci la potenza a 2.100 giri al minuto.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Teraz opuść dziób do pochylenia odpowiedniego dla prędkości przelotowej i zmniejsz moc do 2100 obrotów.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Agora, abaixe o nariz para uma atitude de cruzeiro e reduza a potência para 2.100 RPMs.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Теперь опустите нос, чтобы войти в крейсерский режим, и сбавьте обороты до 2100 об/мин.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "Lower your nose to a cruise attitude and reduce power to 2,100 RPMs.",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Downwind3": {
+        "UUID": "a76395b7-09ce-4879-8357-5695c2bac750",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "接着增加10度襟翼角度，准备降落。",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Ouvrez les volets à 10 degrés pour préparer l'atterrissage…",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Incrementa 10 grados los flaps para prepararnos para el aterrizaje.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Und fahren Sie die Landeklappen schon mal um 10 Grad aus, damit wir für die Landung gewappnet sind.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Aggiungi 10 gradi di ipersostentatori e preparati all'atterraggio...",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Wypuść klapy na 10 stopni, by przygotować się do lądowania…",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Adicione 10 graus de flaps para nos preparar para o pouso...",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Выпустите закрылки ещё на 10 градусов, чтобы подготовиться к посадке…",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "接着增加10度襟翼角度，准备降落。",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Downwind3_MALE": {
+        "UUID": "46afa802-0519-4310-8f82-d9c44e87e554",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-28 11:26:27",
+        "Languages": {
+          "en-US": {
+            "Text": "Once your speed is in the white arc, add 10 degrees of flaps and prepare for landing."
+          },
+          "fr-FR": {
+            "Text": "Quand la vitesse est dans l'arc blanc, ouvrez les volets à 10 degrés pour vous préparer à l'atterrissage."
+          },
+          "es-ES": {
+            "Text": "Cuando tu velocidad se halle en el arco blanco, incrementa 10 grados los flaps y prepárate para aterrizar."
+          },
+          "de-DE": {
+            "Text": "Fahren Sie die Landeklappen um 10 Grad aus, sobald die Geschwindigkeit passt, und machen Sie sich zur Landung bereit."
+          },
+          "it-IT": {
+            "Text": "Quando la velocità raggiunge l'area bianca, aggiungi 10° agli ipersostentatori e preparati all'atterraggio."
+          },
+          "pl-PL": {
+            "Text": "Gdy strzałka prędkości będzie znajdować się na białym łuku, wypuść klapy na 10 stopni i przygotuj się do lądowania."
+          },
+          "pt-BR": {
+            "Text": "Quando sua velocidade estiver no arco branco, adicione 10 graus de flaps e prepare-se para o pouso."
+          },
+          "ru-RU": {
+            "Text": "Как только стрелка скорости попадёт в белую зону, выпустите закрылки ещё на 10 градусов и приготовьтесь к посадке."
+          },
+          "zh-CN": {
+            "Text": "Once your speed is in the white arc, add 10 degrees of flaps and prepare for landing."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Downwind4": {
+        "UUID": "624deff4-2e64-498c-b0ee-ba25264dcd20",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "确认跑道上无阻挡。",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Assurez-vous que la piste est libre…",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Comprueba que la pista está despejada...",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Stellen Sie sicher, dass die Landebahn frei ist …",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Controlla che la pista sia libera...",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Sprawdź, czy pas jest wolny…",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Verifique se a pista está livre...",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Убедитесь, что ВПП свободна…",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "确认跑道上无阻挡。",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Downwind4_MALE": {
+        "UUID": "0508ff69-c7cb-432b-b0be-450b7e52183f",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-28 11:26:27",
+        "Languages": {
+          "en-US": {
+            "Text": "This would be a good time to check and see if the runway's looking good…"
+          },
+          "fr-FR": {
+            "Text": "C'est le moment de vérifier si la piste est dégagée..."
+          },
+          "es-ES": {
+            "Text": "Este sería un buen momento para comprobar si la pista está en condiciones..."
+          },
+          "de-DE": {
+            "Text": "Jetzt ist ein guter Moment, die Landebahn auf Hindernisse zu prüfen …"
+          },
+          "it-IT": {
+            "Text": "Potrebbe essere un buon momento per verificare le condizioni della pista..."
+          },
+          "pl-PL": {
+            "Text": "To dobry moment by sprawdzić, czy na pasie startowym wszystko jest w porządku…"
+          },
+          "pt-BR": {
+            "Text": "Agora é um bom momento para verificar se está tudo bem com a pista..."
+          },
+          "ru-RU": {
+            "Text": "Самое время проверить, свободна ли полоса."
+          },
+          "zh-CN": {
+            "Text": "This would be a good time to check and see if the runway's looking good…"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Downwind5": {
+        "UUID": "a4ad4322-bc92-48db-9cbb-57fee1d0e522",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "与此同时，我们也要注意其他准备进入或离开起落航线的航空器。",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Bien évidemment, on commence par contrôler si d'autres avions intègrent ou quittent le circuit.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Y aunque seguramente sobre decirlo, presta siempre atención a los aviones que acceden o salen del circuito.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Und natürlich sollten Sie immer ein Auge auf andere Flugzeuge haben, die sich in die Platzrunde einreihen oder sie verlassen.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Forse non c'è bisogno di dirlo, ma presta sempre attenzione agli altri aeromobili che entrano o escono dal circuito di pista.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "I pewnie to oczywiste, ale zawsze zwracaj uwagę, czy żaden inny samolot nie wchodzi do kręgu albo go nie opuszcza.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Você já deve saber, mas é necessário ter atenção com outras aeronaves que estão entrando ou saindo do padrão.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Скажу очевидную вещь, но всё же: всегда следите за другими самолётами, которые входят в схему или выходят из неё.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "与此同时，我们也要注意其他准备进入或离开起落航线的航空器。",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Downwind5_MALE": {
+        "UUID": "58a3224c-7e40-4c56-a9bf-5e11f445f40b",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "It should go without saying -- also watch out for any other aircraft entering or exiting the pattern.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Il faut aussi contrôler si d'autres avions intègrent ou quittent le circuit.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Ten cuidado también con cualquier otra aeronave que entre o salga del circuito.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Haben Sie immer auch ein Auge auf andere Flugzeuge, die sich in die Platzrunde einreihen oder sie verlassen.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Inoltre, presta attenzione anche agli altri aeromobili che entrano o escono dal circuito.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Zwracaj uwagę, czy żaden inny statek powietrzny nie wchodzi do kręgu albo go nie opuszcza.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Também é necessário prestar atenção nas aeronaves que estão entrando ou saindo do circuito.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Кроме того, всегда следите за тем, как другие суда входят в схему или выходят из неё.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "It should go without saying -- also watch out for any other aircraft entering or exiting the pattern.",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Downwind6": {
+        "UUID": "14d22a89-893c-46b8-840d-27989f7c7382",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "飞过跑道终点后继续前进，直至可以在身后45度角看到跑道。",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Volez pour dépasser la fin de la piste et continuez jusqu'à la voir à un angle de 45 degrés derrière vous.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Vamos a pasar volando el final de la pista en este punto. Continúa hasta que puedas verla con un ángulo de 45 grados detrás de ti.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Fliegen Sie an der Piste vorbei und so lange weiter, bis diese in einem Winkel von 45 Grad hinter Ihnen sichtbar wird.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Vola oltre la fine della pista e continua fino ad averne una visuale a un angolo di 45 gradi alle tue spalle.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Leć za koniec pasa i dalej, aż zobaczysz go za sobą pod kątem 45 stopni.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Você voará passando pelo final da pista. Continue até conseguir vê-la a um ângulo de 45 graus atrás de você.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Сейчас вы пролетите мимо конца полосы. Продолжайте лететь до тех пор, пока она не окажется позади вас под углом 45 градусов.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "飞过跑道终点后继续前进，直至可以在身后45度角看到跑道。",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Downwind6_MALE": {
+        "UUID": "265e6216-7c8f-456e-801d-b6f59383bc41",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-28 11:26:27",
+        "Languages": {
+          "en-US": {
+            "Text": "As you fly past the end of the runway, continue until you see it at a 45-degree angle behind you."
+          },
+          "fr-FR": {
+            "Text": "Dépassez la fin de la piste et continuez jusqu'à la voir à un angle de 45 degrés derrière vous."
+          },
+          "es-ES": {
+            "Text": "Conforme pases volando el final de la pista, continúa hasta que puedas verla con un ángulo de 45 grados detrás de ti."
+          },
+          "de-DE": {
+            "Text": "Fliegen Sie an der Piste vorbei und so lange weiter, bis diese in einem Winkel von 45 Grad hinter Ihnen sichtbar wird."
+          },
+          "it-IT": {
+            "Text": "Mentre superi la fine della pista, continua fino ad averne una visuale a un angolo di 45 gradi dietro di te."
+          },
+          "pl-PL": {
+            "Text": "Gdy polecisz za koniec pasa kontynuuj, aż zobaczysz go za sobą pod kątem 45 stopni."
+          },
+          "pt-BR": {
+            "Text": "Você voará passando pelo final da pista e continuará até conseguir vê-la a um ângulo de 45 graus atrás de você."
+          },
+          "ru-RU": {
+            "Text": "Пролетев конец ВПП, летите дальше, пока она не окажется позади вас под углом 45 градусов."
+          },
+          "zh-CN": {
+            "Text": "As you fly past the end of the runway, continue until you see it at a 45-degree angle behind you."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Downwind7": {
+        "UUID": "73384dfa-fca0-412d-a55a-2ad29b445a6f",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "此后再次向左转弯，进入第四边。",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "À ce moment-là, il faut virer à gauche pour raccorder l'étape de base.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Esa será tu señal para volver a girar a la izquierda hacia el tramo básico.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Das ist Ihr Anhaltspunkt, erneut links einzuschlagen und den Queranflug einzuleiten.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "È il momento di virare nuovamente a sinistra per posizionarti sul tratto base.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "W tym momencie należy ponownie skręcić w lewo, na odcinek po trzecim zakręcie.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Esta é sua deixa para virar à esquerda mais uma vez, para a perna base.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Это подсказка о третьем развороте: вам снова нужно выполнить разворот налево.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "此后再次向左转弯，进入第四边。",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Downwind7_MALE": {
+        "UUID": "36a769c1-7e3d-43a5-a90c-9b162210fdf5",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "That will be your cue to turn left again, onto the base leg.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "À ce moment-là, il faut virer à gauche pour raccorder l'étape de base.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Esa será tu señal para volver a girar a la izquierda hacia el tramo básico.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Das ist Ihr Anhaltspunkt, erneut links einzuschlagen und den Queranflug einzuleiten.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "È il momento di virare nuovamente a sinistra per posizionarti sul tratto base.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "W tym momencie należy ponownie skręcić w lewo, na odcinek po trzecim zakręcie.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Esta é sua deixa para virar à esquerda mais uma vez, para a perna base.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Это подсказка о третьем развороте: вам снова нужно выполнить разворот налево.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "That will be your cue to turn left again, onto the base leg.",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Final1": {
+        "UUID": "d894095d-474a-487e-83ef-6b1a56b2ff63",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "好的，现在整条跑道都位于你的视野之内了，确保飞机与跑道中线对齐，准备好拉平飞机！",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Très bien, maintenant que la piste est bien en vue, assurez-vous que vous êtes bien centré et préparez-vous à l'arrondi !",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Vale, ya tenemos una vista completa de la pista. Asegúrate de que el avión está centrado y prepárate para enderezarlo.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Okay. Jetzt, da wir vollen Blick auf die Piste haben, sollten Sie sicherstellen, dass Sie auf die Mitte der Landebahn zufliegen – machen Sie sich bereit fürs Ausschweben!",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Ecco, ora hai una piena visuale sulla pista. Assicurati di essere in posizione centrale e preparati a richiamare l'aeromobile.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "No i proszę, pas startowy w pełnej okazałości. Upewnij się, że samolot znajduje się dokładnie w jego osi i przygotuj się do wytrzymania.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Aqui vamos nós, a pista está em plena vista. Certifique-se de que a aeronave esteja centralizada e prepare-se para o arredondamento.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Вот так. Полоса хорошо видна. Отцентруйте самолёт прямо по осевой и приготовьтесь к выравниванию.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "好的，现在整条跑道都位于你的视野之内了，确保飞机与跑道中线对齐，准备好拉平飞机！",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Final1_MALE": {
+        "UUID": "e4dc8817-0ce9-4021-97bf-00ca8b88793b",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "See that? The runway is in full view. Be sure you keep the aircraft centered on approach…",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Ça y est, la piste est bien en vue. Vérifiez que vous êtes au centre de la piste en phase d'approche.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "¿Lo ves? La pista está a la vista. Asegúrate de mantener la aeronave centrada durante la aproximación...",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Jetzt haben Sie freie Sicht auf die Landebahn. Bleiben Sie beim Anflug unbedingt mittig …",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Ecco, ora hai una piena visuale sulla pista. Assicurati di mantenere l'aeromobile al centro durante l'avvicinamento...",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Spójrz! Pas startowy w pełnej okazałości. Pamiętaj, żeby podczas podchodzenia ustawić samolot w osi pasa…",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Consegue ver? A pista está em plena vista. Certifique-se de manter a aeronave centralizada durante a aproximação...",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Видите полосу? Отсюда она отлично просматривается. Отцентруйте судно по осевой линии полосы…",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "See that? The runway is in full view. Be sure you keep the aircraft centered on approach…",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Final2": {
+        "UUID": "50ca121c-0f9e-4e78-86bf-711274168e6c",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "如果飞机高度过高，就增加襟翼角度。如果高度过低，此时应该提高功率，防止偏离当前下滑航迹。",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Si vous êtes trop haut, ouvrez les volets. Si vous êtes trop bas, augmentez la puissance pour rester sur la trajectoire de descente.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Si vas muy alto, usa los flaps. Si vas muy bajo, aumenta la potencia para mantener la trayectoria de planeo.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Wenn Sie zu hoch sind, sollten Sie die Landeklappen weiter ausfahren, wenn Sie zu niedrig sind, mehr Schub geben, um den Gleitweg konstant zu halten.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Se sei troppo in alto, aggiungi ipersostentatori. Se sei troppo in basso, aggiungi potenza per mantenere la traiettoria di planata.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Jeśli jesteś zbyt wysoko, wypuść klapy. Jeśli jesteś za nisko, zwiększ moc, by utrzymać się na ścieżce zniżania.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Se estiver alto demais, adicione flaps. Se estiver baixo demais, adicione potência para manter a trajetória de planeio.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Если вы слишком высоко, увеличьте угол выпуска закрылков. Если слишком низко — увеличьте обороты, чтобы не сойти с глиссады.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "如果飞机高度过高，就增加襟翼角度。如果高度过低，此时应该提高功率，防止偏离当前下滑航迹。",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Final2_MALE": {
+        "UUID": "7113daa3-245b-4d03-8d7e-e10e7e5a2009",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-28 11:26:27",
+        "Languages": {
+          "en-US": {
+            "Text": "If you're too high, add flaps. Too low, add power to maintain the glide path."
+          },
+          "fr-FR": {
+            "Text": "Si vous êtes trop haut, ouvrez les volets. Si vous êtes trop bas, augmentez la puissance pour rester sur la trajectoire de descente."
+          },
+          "es-ES": {
+            "Text": "Si vas muy alto, usa los flaps. Si vas muy bajo, aumenta la potencia para mantener la trayectoria de planeo."
+          },
+          "de-DE": {
+            "Text": "Wenn Sie zu hoch sind, sollten Sie die Landeklappen weiter ausfahren, wenn Sie zu niedrig sind, mehr Schub geben, um den Gleitweg konstant zu halten."
+          },
+          "it-IT": {
+            "Text": "Se sei troppo in alto, aggiungi ipersostentatori. Se sei troppo in basso, aggiungi potenza per mantenere la traiettoria di planata."
+          },
+          "pl-PL": {
+            "Text": "Jeśli jesteś zbyt wysoko, wypuść klapy. Jeśli jesteś za nisko, zwiększ moc, by utrzymać się na ścieżce zniżania."
+          },
+          "pt-BR": {
+            "Text": "Se estiver alto demais, adicione flaps. Se estiver baixo demais, adicione potência para manter a trajetória de planeio."
+          },
+          "ru-RU": {
+            "Text": "Если вы слишком высоко, увеличьте угол выпуска закрылков. Если слишком низко — увеличьте обороты, чтобы не сойти с глиссады."
+          },
+          "zh-CN": {
+            "Text": "If you're too high, add flaps. Too low, add power to maintain the glide path."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Intro1": {
+        "UUID": "602b5fe3-dd60-4808-a731-11c4810686a0",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "你将沿标准起落航线环绕机场飞行，随后回到21跑道降落。",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Soyons honnêtes : personne n'aime tourner en rond… À moins d'être un pilote qui s'entraîne sur les circuits d'aérodrome.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Sinceramente, a nadie le gusta volar en círculos... A menos que seas un piloto practicando los circuitos de tránsito.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Seien wir ehrlich: Es bereitet niemandem Freude, sich immer nur im Kreis zu drehen … Außer Sie sind ein Pilot, der gerade Platzrunden einübt.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Siamo onesti: a nessuno piace girare a vuoto... A meno che tu non sia un pilota che si addestra sul circuito di pista.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Bądźmy szczerzy – nikt nie lubi kręcić się w kółko... Chyba że jest się pilotem trenującym kręgi nadlotniskowe.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Vamos ser sinceros: ninguém gosta de andar em círculos... a não ser que você seja um piloto treinando circuitos de tráfego.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Двигаться по кругу не любят ни лошади, ни автолюбители. Но если вы заходите на посадку, схема движения именно круговая.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "你将沿标准起落航线环绕机场飞行，随后回到21跑道降落。",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Intro1_MALE": {
+        "UUID": "e3a6cab1-42be-4871-9cad-f5edfc64c2c7",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "If you're a pilot who plans to visit an airport any time soon, you need to understand the notion of traffic patterns.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Avant de se rendre dans un aéroport, tout pilote digne de ce nom doit comprendre la notion de circuit d'aérodrome.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Si eres un piloto que planea visitar un aeropuerto próximamente, tienes que entender la noción de los circuitos de tránsito.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Wenn Sie ein Pilot sind, der in nächster Zeit vorhat, einen Flugplatz anzusteuern, müssen Sie sich mit der Bedeutung von Platzrunden beschäftigen.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Se non sei un pilota in procinto di recarsi in aeroporto, potresti dover approfondire il concetto di circuito di pista.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Jeśli zamierzasz kiedykolwiek odwiedzić dowolne lotnisko jako pilot, musisz zrozumieć, czym jest krąg nadlotniskowy.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Se planeja visitar um aeroporto em breve, vai ter de entender as noções de circuito de tráfego.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Если вы планируете совершить посадку в каком-либо аэропорту, без знания схем воздушного движения не обойтись.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "If you're a pilot who plans to visit an airport any time soon, you need to understand the notion of traffic patterns.",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Intro2": {
+        "UUID": "de4f07e2-d9a4-44ae-9132-16d6a754199d",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "该航线环绕目标跑道，整体位于1000英尺高度。",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Le circuit d'aérodrome standard de Sedona suit un trajet à 1 000 pieds d'altitude autour de la piste principale.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "El circuito de tránsito estándar de Sedona sigue una altitud de 1000 pies alrededor de la pista principal.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Beim Flugplatz Sedona wird die Landebahn standardmäßig in 1.000 Fuß Höhe einmal umkreist.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Il circuito di pista di Sedona si articola a un'altitudine di 1.000 piedi intorno alla pista selezionata.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Standardowy krąg nadlotniskowy na lotnisku Sedona odbywa się na wysokości 1000 stóp, wokół głównego pasa startowego.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "O circuito de tráfego de Sedona segue uma altitude de 1.000 pés ao redor da pista.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Высота круга в стандартной схеме аэропорта Седона составляет 1000 футов над уровнем аэропорта.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "该航线环绕目标跑道，整体位于1000英尺高度。",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Intro2_MALE": {
+        "UUID": "662cd3e2-ee8c-45d6-bde0-4adf599fc905",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-28 11:26:27",
+        "Languages": {
+          "en-US": {
+            "Text": "Sedona's standard traffic pattern follows a 1,000-foot altitude around the main runway."
+          },
+          "fr-FR": {
+            "Text": "Le circuit d'aérodrome standard de Sedona suit un trajet à 1 000 pieds d'altitude autour de la piste principale."
+          },
+          "es-ES": {
+            "Text": "El circuito de tránsito estándar de Sedona sigue una altitud de 1000 pies alrededor de la pista principal."
+          },
+          "de-DE": {
+            "Text": "Beim Flugplatz Sedona wird die Landebahn standardmäßig in 1.000 Fuß Höhe einmal umkreist."
+          },
+          "it-IT": {
+            "Text": "Il circuito di pista di Sedona si articola a un'altitudine di 1.000 piedi intorno alla pista selezionata."
+          },
+          "pl-PL": {
+            "Text": "Standardowy krąg nadlotniskowy na lotnisku Sedona odbywa się na wysokości 1000 stóp, wokół głównego pasa startowego."
+          },
+          "pt-BR": {
+            "Text": "O circuito de tráfego de Sedona segue uma altitude de 1.000 pés ao redor da pista."
+          },
+          "ru-RU": {
+            "Text": "Высота круга в стандартной схеме аэропорта Седона составляет 1000 футов над уровнем аэропорта."
+          },
+          "zh-CN": {
+            "Text": "Sedona's standard traffic pattern follows a 1,000-foot altitude around the main runway."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Intro3": {
+        "UUID": "ef56305f-78e1-4034-add1-a4cf3317348b",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "接下来你将学习如何从起飞到降落，完成这条航线的全过程。",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Quand on en aura fini, vous serez capable de réaliser le parcours complet, du décollage à l'atterrissage. Allons-y.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Cuando hayamos acabado con esto, sabrás cómo ejecutar todos los pasos, desde el despegue hasta el aterrizaje. Comencemos.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Wenn wir hier fertig sind, kennen Sie alle Abläufe – vom Start bis zur Landung. Also verschwenden wir keine Zeit.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Quando avremo finito qui, saprai completare un volo, dal decollo all'atterraggio. Iniziamo.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Gdy skończymy, będziesz wiedzieć jak przeprowadzić pełny lot, od startu po lądowanie. Zaczynajmy.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Quando terminarmos, você terá aprendido a fazer um voo completo, da decolagem à aterrissagem. Então vamos começar.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "К концу занятия вы научитесь выполнять полёт от взлёта до посадки. Давайте начнём.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "接下来你将学习如何从起飞到降落，完成这条航线的全过程。",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Intro3_MALE": {
+        "UUID": "50aacd3e-1aee-44e0-b229-40ddd7201475",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "By the time you finish this lesson, you will be armed with the skills to complete every leg of the pattern. Starting with take-off. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "À la fin du cours, vous aurez les bons réflexes pour effectuer chaque étape du circuit. À commencer par le décollage. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Para cuando termines esta lección, tendrás las habilidades necesarias para completar cada parte del circuito, empezando por el despegue.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Nach Abschluss dieser Lektion sollten Sie jeden Teil einer Platzrunde ausführen können. Beginnen wir mit dem Start. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Al termine della lezione avrai le competenze necessarie per completare ogni tratto del percorso, iniziando dal decollo. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Podczas tej lekcji nauczysz się, jak pokonać każdy odcinek kręgu. Zaczniemy od startu. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Quando terminarmos esta lição, você terá as habilidades necessárias para completar cada parte de um circuito. Começando com a decolagem.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Когда мы закончим урок, вы будете знать, как действовать на каждом участке схемы, начиная со взлёта. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "By the time you finish this lesson, you will be armed with the skills to complete every leg of the pattern. Starting with take-off. ",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Intro3Reminder": {
+        "UUID": "96046471-b23d-4d2d-94c4-c21e9342e45b",
+        "Comment": "D1P/Post-Launch",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-04-15 18:16:26",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "You can take off now."
+          },
+          "fr-FR": {
+            "Text": "Vous pouvez décoller maintenant."
+          },
+          "es-ES": {
+            "Text": "Ya puedes despegar."
+          },
+          "de-DE": {
+            "Text": "Sie können jetzt starten."
+          },
+          "it-IT": {
+            "Text": "Adesso puoi decollare."
+          },
+          "pl-PL": {
+            "Text": "Możesz teraz startować."
+          },
+          "pt-BR": {
+            "Text": "Pode decolar agora."
+          },
+          "ru-RU": {
+            "Text": "Теперь можно взлетать."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Intro3Reminder_MALE": {
+        "UUID": "da5493ab-1424-49f0-9cad-316aed440607",
+        "Comment": "D1P/Post-Launch",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-04-15 18:16:26",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "You can take off now."
+          },
+          "fr-FR": {
+            "Text": "Vous pouvez décoller maintenant."
+          },
+          "es-ES": {
+            "Text": "Ya puedes despegar."
+          },
+          "de-DE": {
+            "Text": "Sie können jetzt starten."
+          },
+          "it-IT": {
+            "Text": "Adesso puoi decollare."
+          },
+          "pl-PL": {
+            "Text": "Możesz teraz startować."
+          },
+          "pt-BR": {
+            "Text": "Pode decolar agora."
+          },
+          "ru-RU": {
+            "Text": "Теперь можно взлетать."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Landing1": {
+        "UUID": "c8cfeff9-683a-4d85-b68a-998487eaae5d",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "漂亮！接下来使用制动器来降低速度，但小心不要让飞机停在跑道上。",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Joli atterrissage. Maintenant, serrez les freins pour ralentir, et veillez à ne pas vous arrêter sur la piste, bien sûr. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Estás a punto de finalizar el aterrizaje. Ahora reduce la velocidad usando los frenos. Eso sí, no detengas el avión en la pista.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Eine ausgezeichnete Landung. Betätigen Sie jetzt die Bremsen, um langsamer zu werden, aber halten Sie bitte nicht auf der Landebahn an. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Atterraggio riuscito. Ora applica i freni per ridurre il rollio, ma non arrestare l'aeromobile sulla pista.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Dobra robota. Teraz już tylko użyj hamulców, żeby wytracić prędkość. Musisz też oczywiście pamiętać, żeby nie zatrzymać się na pasie startowym. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Ótimo pouso. Agora você só precisa aplicar os freios para diminuir a rolagem e se certificar de não parar no meio da pista.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Отличное касание. Теперь начинайте тормозить, чтобы замедлиться на пробеге. Разумеется, совсем останавливаться на полосе тоже не следует.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "漂亮！接下来使用制动器来降低速度，但小心不要让飞机停在跑道上。",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Landing1_MALE": {
+        "UUID": "34f6ac22-df7f-4c7c-9c20-324bc16304e9",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "dmedina",
+        "LastModifiedDate": "2020-07-01 11:55:28",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Alright, we have touch-down. Apply the brakes to slow down -- but never come to a full stop on the runway."
+          },
+          "fr-FR": {
+            "Text": "Bien, nous avons atterri. Serrez les freins pour ralentir, mais évitez de faire un arrêt complet sur la piste."
+          },
+          "es-ES": {
+            "Text": "Muy bien, ya nos hemos posado. Usa los frenos para reducir la velocidad, pero nunca te detengas por completo en la pista."
+          },
+          "de-DE": {
+            "Text": "Sehr gut, wir haben aufgesetzt. Betätigen Sie die Bremsen, um das Flugzeug zu verlangsamen, aber halten Sie auf keinen Fall auf der Piste an."
+          },
+          "it-IT": {
+            "Text": "Bene, abbiamo toccato terra. Inserisci i freni per rallentare, ma non arrestarti mai completamente sulla pista."
+          },
+          "pl-PL": {
+            "Text": "Dobrze, jesteśmy na pasie. Użyj hamulców do wytracenia prędkości, ale nigdy nie zatrzymuj się na pasie startowym."
+          },
+          "pt-BR": {
+            "Text": "Certo, tocamos na pista. Freie para desacelerar a aeronave, mas nunca pare na pista."
+          },
+          "ru-RU": {
+            "Text": "Отлично, есть касание! Теперь начинайте тормозить, чтобы замедлить судно. Но помните: останавливаться на полосе нельзя."
+          },
+          "zh-CN": {
+            "Text": "Alright, we have touch-down. Apply the brakes to slow down -- but never come to a full stop on the runway."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Landing2": {
+        "UUID": "687d3982-c866-4d6d-966c-212381e2c3c8",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "要是还有其他飞机需要降落，我们可不能停在这里！请转向右侧的滑行道。",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Si d'autres avions cherchent à atterrir, nous ne pouvons pas nous arrêter ici ! Empruntez l'un des taxiways à droite et arrêtez-y l'avion.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Si otros aviones quieren aterrizar, tenemos que movernos. Dirígete a una de las pistas de rodaje a la derecha y detén allí el avión.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Wenn noch andere Flugzeuge zu landen beabsichtigen, ist Schnelligkeit gefordert. Steuern Sie mit der Maschine also eine der rechts befindlichen Rollbahnen an und halten Sie dann an.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Non possiamo fermarci se altri aeromobili devono atterrare. Imbocca una delle vie di rullaggio sulla destra e ferma lì l'aeromobile.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Jeśli inne samoloty zamierzają lądować, musimy stąd odjechać. Skręć w jedną z dróg kołowania po prawej i tam zatrzymaj samolot.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Se outras aeronaves estiverem esperando para pousar, precisamos nos mover! Pegue uma das pistas de táxi à direita.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Если другие самолёты заходят на посадку, мы должны уступить им место. Уйдите на одну из рулёжных дорожек справа и остановитесь там.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "要是还有其他飞机需要降落，我们可不能停在这里！请转向右侧的滑行道。",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Landing2_MALE": {
+        "UUID": "0058a5b8-7e68-4300-8e84-440a0d227811",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-28 11:26:27",
+        "Languages": {
+          "en-US": {
+            "Text": "If other aircraft are looking to land, you'll have to move. Proceed to one of the taxiways on the right."
+          },
+          "fr-FR": {
+            "Text": "Si d'autres avions cherchent à atterrir, nous ne pouvons pas nous arrêter ici ! Empruntez l'un des taxiways à droite."
+          },
+          "es-ES": {
+            "Text": "Si otra aeronave quiere aterrizar, tendrás que moverte. Avanza hasta una de las pistas de rodaje de la derecha."
+          },
+          "de-DE": {
+            "Text": "Wenn noch andere Flugzeuge zu landen beabsichtigen, ist Eile geboten. Steuern Sie also bitte eine der Rollbahnen rechts an."
+          },
+          "it-IT": {
+            "Text": "Devi spostarti per consentire ad altri aeromobili di atterrare. Imbocca una delle vie di rullaggio sulla destra."
+          },
+          "pl-PL": {
+            "Text": "Jeśli inne samoloty zamierzają lądować, musisz stąd odjechać. Skręć w jedną z dróg kołowania po prawej."
+          },
+          "pt-BR": {
+            "Text": "Se outras aeronaves estiverem esperando para pousar, você precisará se mover. Pegue uma das pistas de táxi à direita."
+          },
+          "ru-RU": {
+            "Text": "Если на посадку заходят другие суда, лучше уступить им место. Уйдите на одну из рулёжных дорожек справа."
+          },
+          "zh-CN": {
+            "Text": "If other aircraft are looking to land, you'll have to move. Proceed to one of the taxiways on the right."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Landing2Reminder": {
+        "UUID": "4ea04f11-95da-457f-a2a4-e145c9f38b84",
+        "Comment": "D1P/Post-Launch",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-04-15 18:16:26",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "You can exit the runway through one of the taxiways on the right."
+          },
+          "fr-FR": {
+            "Text": "Vous pouvez quitter la piste en empruntant un des taxiways sur la droite."
+          },
+          "es-ES": {
+            "Text": "Puedes abandonar la pista a través de una de las pistas de rodaje a la derecha."
+          },
+          "de-DE": {
+            "Text": "Sie können die Landebahn über eine der Rollbahnen zu Ihrer Rechten verlassen."
+          },
+          "it-IT": {
+            "Text": "Puoi uscire dalla pista tramite una delle una delle piste di rullaggio sulla destra."
+          },
+          "pl-PL": {
+            "Text": "Możesz opuścić pas startowy, skręcając w jedną z dróg kołowania po prawej stronie."
+          },
+          "pt-BR": {
+            "Text": "Você pode sair da pista de pouso e decolagem por meio de uma das pistas de táxi à direita."
+          },
+          "ru-RU": {
+            "Text": "Вы можете освободить полосу, свернув на одну из рулёжных дорожек справа от вас."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Landing2Reminder_MALE": {
+        "UUID": "7e63d8be-1c09-4051-8fe4-ecb12ff5e73a",
+        "Comment": "D1P/Post-Launch",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-04-15 18:16:26",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "You can exit the runway through one of the taxiways on the right."
+          },
+          "fr-FR": {
+            "Text": "Vous pouvez quitter la piste en empruntant un des taxiways sur la droite."
+          },
+          "es-ES": {
+            "Text": "Puedes abandonar la pista a través de una de las pistas de rodaje a la derecha."
+          },
+          "de-DE": {
+            "Text": "Sie können die Landebahn über eine der Rollbahnen zu Ihrer Rechten verlassen."
+          },
+          "it-IT": {
+            "Text": "Puoi uscire dalla pista tramite una delle una delle piste di rullaggio sulla destra."
+          },
+          "pl-PL": {
+            "Text": "Możesz opuścić pas startowy, skręcając w jedną z dróg kołowania po prawej stronie."
+          },
+          "pt-BR": {
+            "Text": "Você pode sair da pista de pouso e decolagem por meio de uma das pistas de táxi à direita."
+          },
+          "ru-RU": {
+            "Text": "Вы можете освободить полосу, свернув на одну из рулёжных дорожек справа от вас."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Landing3": {
+        "UUID": "6d555893-7301-42d6-9aa7-9224bafea81f",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Good job! As an old instructor said to me: Not only did you not die, you're really learning to fly!",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Bien joué. Comme le disait un vieil instructeur : apprendre à voler sans y laisser sa peau, ça n'a pas de prix !",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "¡Bien hecho! Una vez me dijo un instructor: \"No solo no has muerto, sino que estás aprendiendo a volar\".",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Gut gemacht! Wie hat einer meiner Fluglehrer damals gesagt? Sie sind noch am Leben und haben sogar noch was gelernt!",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Ben fatto! Come disse un mio vecchio istruttore: non solo sei ancora in vita, stai anche imparando a volare!",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Dobra robota! Jak to mawiał mój dawny instruktor: nie tylko nadal żyjesz, ale i naprawdę uczysz się latać.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Bom trabalho. Como um antigo instrutor me disse: você não apenas sobreviveu, como também está aprendendo a voar!",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Отлично! Как сказал один старый инструктор: «Вы не только выжили, но и научились летать!»",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "Good job! As an old instructor said to me: Not only did you not die, you're really learning to fly!",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_Landing3_MALE": {
+        "UUID": "de99840c-a576-4ee5-a14c-f58dc784cc09",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "You did well. You're on your way to becoming a solid, skillful, general aviation pilot. Keep it up.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Bien joué. À ce rythme, vous ferez un excellent pilote. Continuez comme ça.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Lo has hecho bien. Estás en camino de convertirte en un buen piloto. Sigue así.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Gut gemacht. Sie sind auf dem besten Weg, ein ordentlicher Pilot zu werden. Immer weiter so.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Ben fatto. Sei sulla strada giusta per diventare un pilota valido e competente dell'aviazione. Continua così.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Dobrze ci poszło. Jeszcze trochę i zostaniesz solidnym pilotem. Tak trzymać.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Bom trabalho. Você está no caminho certo para se tornar um piloto competente. Continue assim.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Вы отлично справились. При таком подходе вы станете замечательным пилотом! Не сбавляйте обороты.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "You did well. You're on your way to becoming a solid, skillful, general aviation pilot. Keep it up.",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_LeftHand1": {
+        "UUID": "0f7206ee-1b7c-4257-a146-36b47818f3e2",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "很好，继续上升，直至到达起落航线的5700英尺高度。",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Bien, continuez jusqu'à atteindre une altitude de 5 700 pieds.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Bien. Continúa hasta que alcances la altitud de circuito de tránsito de 5700 pies.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Gut so, fliegen Sie weiter, bis Sie die Platzrundenhöhe von 5700 Fuß erreichen.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Bene. Ora continua fino a raggiungere l'altitudine di 5.700 piedi prevista dal circuito di pista.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Dobrze, wznoś się, póki nie osiągniesz wysokości kręgu 5700 stóp.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Ótimo. Continue até chegar à altitude do padrão de tráfego de 5.700 pés.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Хорошо. Продолжайте, пока не выйдете на высоту схемы движения — 5700 футов.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "很好，继续上升，直至到达起落航线的5700英尺高度。",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_LeftHand1_MALE": {
+        "UUID": "94051f1d-b88e-4161-b880-7ca91cd5f60c",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-28 11:26:27",
+        "Languages": {
+          "en-US": {
+            "Text": "Alright. Continue climbing until you reach the traffic pattern altitude of 5,700 feet."
+          },
+          "fr-FR": {
+            "Text": "Bien, continuez jusqu'à atteindre une altitude de 5 700 pieds, nécessaire pour le circuit d'aérodrome."
+          },
+          "es-ES": {
+            "Text": "De acuerdo. Sigue ascendiendo hasta alcanzar la altitud de circuito de tránsito de 5700 pies."
+          },
+          "de-DE": {
+            "Text": "Gut so. Steigen Sie weiter, bis Sie die Platzrundenhöhe von 5.700 Fuß erreichen."
+          },
+          "it-IT": {
+            "Text": "Bene. Continua l'ascesa fino a raggiungere l'altitudine di 5.700 piedi prevista dal circuito di pista."
+          },
+          "pl-PL": {
+            "Text": "Dobrze, wznoś się dalej, póki nie osiągniesz wysokości kręgu 5700 stóp."
+          },
+          "pt-BR": {
+            "Text": "Certo. Continue subindo até chegar à altitude do padrão de tráfego de 5.700 pés."
+          },
+          "ru-RU": {
+            "Text": "Отлично. Продолжайте набор высоты, пока не выйдете на высоту схемы движения — 5700 футов."
+          },
+          "zh-CN": {
+            "Text": "Alright. Continue climbing until you reach the traffic pattern altitude of 5,700 feet."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_LeftHand3": {
+        "UUID": "7b2acf1d-eb60-42c0-96e8-989d2a211bc9",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "dmedina",
+        "LastModifiedDate": "2020-07-01 11:55:28",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "等到可以在身后45度角看到跑道时，左转进入第三边。"
+          },
+          "fr-FR": {
+            "Text": "On va amorcer un virage à gauche en vent arrière, d'accord ? Quand la piste apparaît au milieu du mât d'aile de l'avion, c'est que l'avion se trouve à une bonne distance de planage."
+          },
+          "es-ES": {
+            "Text": "¿Listo para girar a la izquierda a favor del viento? Cuando la pista aparezca en el punto medio del montante del ala, sabrás que te encuentras a una buena distancia de planeo."
+          },
+          "de-DE": {
+            "Text": "Bereit für den Gegenanflug? Dann drehen Sie das Flugzeug jetzt nach links. Die Landebahn sollte etwa auf Höhe der Mitte der Flügelstrebe sichtbar sein."
+          },
+          "it-IT": {
+            "Text": "Te la senti di virare a sinistra nel sottovento? Quando la pista appare visibile centralmente rispetto al montante delle ali dell'aeromobile, saprai che ti trovi a una distanza di planata ottimale dall'aeroporto."
+          },
+          "pl-PL": {
+            "Text": "Czujesz się na siłach, by wykonać zakręt w lewo z wiatrem? Gdy pas startowy pojawi się pośrodku zastrzału skrzydła, to znak, że znajdujesz się w dobrej odległości do podejścia."
+          },
+          "pt-BR": {
+            "Text": "Pronto para ingressar na perna do vento pela esquerda? Quando estiver no ponto médio da pista, você saberá que está a uma boa distância de planeio."
+          },
+          "ru-RU": {
+            "Text": "Готовы ко второму развороту налево? Начинайте разворот, когда ВПП будет примерно на середине подкоса крыла. Так вы окажетесь на расстоянии планирования от аэропорта."
+          },
+          "zh-CN": {
+            "Text": "等到可以在身后45度角看到跑道时，左转进入第三边。"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_LeftHand3_MALE": {
+        "UUID": "92a119b2-6104-45c7-bb92-3e1026ac6716",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-28 11:26:27",
+        "Languages": {
+          "en-US": {
+            "Text": "It's time to make your left turn downwind. When the runway appears at the halfway point of your wing strut, that's your mark, you're at a good glide distance."
+          },
+          "fr-FR": {
+            "Text": "On va amorcer un virage à gauche en vent arrière, d'accord ? Quand la piste apparaît au milieu du mât d'aile de l'avion, c'est que l'avion est à une bonne distance de planage."
+          },
+          "es-ES": {
+            "Text": "Es hora de girar a la izquierda a favor del viento. Cuando la pista aparezca en el punto medio del montante del ala, será tu señal, pues te encontrarás a una buena distancia de planeo."
+          },
+          "de-DE": {
+            "Text": "Bereit für den Gegenanflug? Dann drehen Sie das Flugzeug jetzt nach links. Wenn die Landebahn etwa auf Höhe der Mitte der Flügelstrebe sichtbar ist, können Sie den Gleitflug einleiten."
+          },
+          "it-IT": {
+            "Text": "È ora di virare a sinistra nel sottovento. Quando la pista appare visibile centralmente rispetto al montante delle ali dell'aeromobile, significa che ti trovi a una distanza di planata ottimale dall'aeroporto."
+          },
+          "pl-PL": {
+            "Text": "Czas wykonać zakręt w lewo z wiatrem. Gdy pas startowy pojawi się pośrodku zastrzału skrzydła, to znak, że znajdujesz się w dobrej odległości do podejścia."
+          },
+          "pt-BR": {
+            "Text": "É hora de virar à esquerda na perna do vento. Quando a pista aparecer no meio da estrutura da sua asa, é sinal de que você está a uma boa distância de planeio."
+          },
+          "ru-RU": {
+            "Text": "Пришло время для второго разворота налево. Начинайте разворот, когда ВПП будет примерно на середине подкоса крыла. Так вы окажетесь на расстоянии планирования от аэропорта."
+          },
+          "zh-CN": {
+            "Text": "It's time to make your left turn downwind. When the runway appears at the halfway point of your wing strut, that's your mark, you're at a good glide distance."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_OutOfBound": {
+        "UUID": "07b9ce35-c0b9-4bde-9765-1a39d69f40df",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-28 11:26:27",
+        "Languages": {
+          "en-US": {
+            "Text": "You've left the Training airspace, you need to go back."
+          },
+          "fr-FR": {
+            "Text": "Vous avez quitté l'espace aérien de formation, vous devez faire demi-tour."
+          },
+          "es-ES": {
+            "Text": "Has abandonado el espacio aéreo de entrenamiento. Tienes que regresar."
+          },
+          "de-DE": {
+            "Text": "Sie haben den Übungsluftraum verlassen, Sie müssen umkehren!"
+          },
+          "it-IT": {
+            "Text": "Hai lasciato lo spazio aereo per l'addestramento, devi tornare indietro."
+          },
+          "pl-PL": {
+            "Text": "Opuszczasz strefę lotów szkolnych, musisz zawrócić."
+          },
+          "pt-BR": {
+            "Text": "Você saiu do espaço aéreo de treinamento. Você precisa voltar."
+          },
+          "ru-RU": {
+            "Text": "Вы покинули учебное воздушное пространство. Вернитесь."
+          },
+          "zh-CN": {
+            "Text": "You've left the Training airspace, you need to go back."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_OutOfBound_MALE": {
+        "UUID": "a6660221-a76b-4342-9d74-67ddae960689",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-28 11:26:27",
+        "Languages": {
+          "en-US": {
+            "Text": "You've crossed out of the Training zone. Better get back in there."
+          },
+          "fr-FR": {
+            "Text": "Vous avez dépassé la zone de formation. Il faut revenir."
+          },
+          "es-ES": {
+            "Text": "Has abandonado la zona de entrenamiento. Será mejor que regreses."
+          },
+          "de-DE": {
+            "Text": "Sie haben den Übungsluftraum verlassen. Kehren Sie bitte um."
+          },
+          "it-IT": {
+            "Text": "Hai lasciato l'area di addestramento. Meglio tornare indietro."
+          },
+          "pl-PL": {
+            "Text": "Jesteś poza strefą lotów szkolnych. Lepiej do niej powróć."
+          },
+          "pt-BR": {
+            "Text": "Você saiu da zona de treinamento. É melhor voltar para lá."
+          },
+          "ru-RU": {
+            "Text": "Вы вышли за пределы учебного воздушного пространства. Давайте вернёмся."
+          },
+          "zh-CN": {
+            "Text": "You've crossed out of the Training zone. Better get back in there."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_TakeOff1": {
+        "UUID": "4be7068e-5cdb-4c7a-b945-4fdabe4df31c",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "升空后对准跑道方向，爬升至5400英尺高度。",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Une fois dans les airs, restez aligné sur la piste et montez à 5 400 pieds.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Cuando despeguemos, mantennos alineados con la pista y asciende a 5400 pies.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Richten Sie das Flugzeug entsprechend der Startbahn aus und erreichen Sie eine Höhe von 5.400 Fuß.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Dopo il decollo, mantieni l'allineamento con la pista e sali a 5.400 piedi.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Po starcie trzymaj kurs pasa i wznieś się na wysokość 5400 stóp.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Depois de decolar, mantenha-nos alinhados à pista e suba para 5.400 pés.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "После взлёта не уходите с курса ВПП и наберите высоту 5400 футов.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "升空后对准跑道方向，爬升至5400英尺高度。",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_TakeOff1_MALE": {
+        "UUID": "8fea2300-d90f-42b0-939c-377916f5560d",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-28 11:26:27",
+        "Languages": {
+          "en-US": {
+            "Text": "Once you're airborne, stay aligned with the runway and climb to 5,400 feet."
+          },
+          "fr-FR": {
+            "Text": "Une fois dans les airs, restez aligné sur la piste et montez à 5 400 pieds."
+          },
+          "es-ES": {
+            "Text": "Una vez en el aire, mantennos alineados con la pista y asciende a 5400 pies."
+          },
+          "de-DE": {
+            "Text": "Richten Sie das Flugzeug entsprechend der Startbahn aus und erreichen Sie eine Höhe von 5.400 Fuß."
+          },
+          "it-IT": {
+            "Text": "Dopo il decollo, mantieni l'allineamento con la pista e sali a 5.400 piedi."
+          },
+          "pl-PL": {
+            "Text": "Gdy samolot wzbije się w powietrze, trzymaj kurs pasa i wznieś się na wysokość 5400 stóp."
+          },
+          "pt-BR": {
+            "Text": "Quando estiver no ar, mantenha-se alinhado à pista e suba para 5.400 pés."
+          },
+          "ru-RU": {
+            "Text": "Взлетев, сохраняйте курс ВПП и наберите высоту 5400 футов."
+          },
+          "zh-CN": {
+            "Text": "Once you're airborne, stay aligned with the runway and climb to 5,400 feet."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_TakeOff2": {
+        "UUID": "659c576a-9cbd-4b92-aa1b-eac5e96f09ea",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-04-15 18:16:26",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "我们将沿左起落航线飞行。"
+          },
+          "fr-FR": {
+            "Text": "Nous allons effectuer un circuit d'aérodrome à main gauche."
+          },
+          "es-ES": {
+            "Text": "Vamos a por un circuito de tránsito a la izquierda."
+          },
+          "de-DE": {
+            "Text": "Wir werden jetzt eine linksseitige Platzrunde fliegen."
+          },
+          "it-IT": {
+            "Text": "Affronteremo un circuito di pista in senso antiorario."
+          },
+          "pl-PL": {
+            "Text": "Wykonamy lewy krąg nadlotniskowy."
+          },
+          "pt-BR": {
+            "Text": "Vamos seguir um circuito de tráfego à esquerda."
+          },
+          "ru-RU": {
+            "Text": "Мы выполним посадку по левосторонней схеме."
+          },
+          "zh-CN": {
+            "Text": "我们将沿左起落航线飞行。"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_TakeOff2_MALE": {
+        "UUID": "1fd16ee8-34ae-4ef6-b54f-4ed6a0361b67",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "You will be going for a left hand traffic pattern.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Vous allez effectuer un circuit d'aérodrome à main gauche.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Vamos a un circuito de tránsito izquierdo.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Sie werden jetzt eine linksseitige Platzrunde fliegen.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Affronterai un circuito di pista in senso antiorario.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Wykonasz lewy krąg nadlotniskowy.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Você vai seguir um circuito de tráfego à esquerda.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Мы выполним заход по левосторонней схеме.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "You will be going for a left hand traffic pattern.",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_TakeOff3": {
+        "UUID": "8d8fca16-f3f7-4e80-b360-bb99839bd6d2",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "到达理想高度后，你应当向左转90度，将航向调整为122度。",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Après avoir atteint la bonne altitude, vous allez tourner à gauche sur 90°, vers un cap de 122 degrés.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Cuando alcances la altitud adecuada, empieza a girar a la izquierda 90 grados, con un rumbo de 122 grados.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Wenn Sie hoch genug sind, schlagen Sie 90 Grad nach links ein, bis Sie einen Steuerkurs von 122 Grad erreichen.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Dopo aver raggiunto l'altitudine adeguata, dovrai iniziare una virata a sinistra di 90 gradi, verso una rotta di 122 gradi.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Po osiągnięciu właściwej wysokości zacznij wykonywać zakręt w lewo o 90 stopni na kurs 122 stopnie.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Depois de atingir a altitude adequada, você começará a virar à esquerda 90 graus, em direção a uma proa de 122 graus.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Набрав необходимую высоту, начинайте левый разворот на 90 градусов по курсу 122 градуса.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "到达理想高度后，你应当向左转90度，将航向调整为122度。",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_TakeOff3_MALE": {
+        "UUID": "153a2fc7-6ff9-49da-8dea-ef1914f4bc43",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-28 11:26:27",
+        "Languages": {
+          "en-US": {
+            "Text": "When you reach your target altitude, begin a turn to the left 90 degrees, toward a 122-degree heading."
+          },
+          "fr-FR": {
+            "Text": "Une fois l'altitude cible atteinte, amorcez un virage à gauche sur 90°, vers un cap de 122 degrés."
+          },
+          "es-ES": {
+            "Text": "Cuando alcances la altitud deseada, empieza a girar a la izquierda 90 grados, con un rumbo de 122 grados."
+          },
+          "de-DE": {
+            "Text": "Wenn Sie die Zielhöhe erreicht haben, schlagen Sie 90 Grad nach links ein, bis Sie einen Steuerkurs von 122 Grad erreichen."
+          },
+          "it-IT": {
+            "Text": "Una volta raggiunta l'altitudine di riferimento, comincia una virata a sinistra di 90 gradi verso una rotta a 122 gradi."
+          },
+          "pl-PL": {
+            "Text": "Po osiągnięciu wysokości docelowej zacznij wykonywać zakręt w lewo o 90 stopni na kurs 122 stopnie."
+          },
+          "pt-BR": {
+            "Text": "Quando atingir a altitude adequada, comece a virar à esquerda 90 graus, em direção a uma proa de 122 graus."
+          },
+          "ru-RU": {
+            "Text": "Набрав необходимую высоту, начинайте левый разворот на 90 градусов, чтобы уйти на курс 122 градуса."
+          },
+          "zh-CN": {
+            "Text": "When you reach your target altitude, begin a turn to the left 90 degrees, toward a 122-degree heading."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_TakeOff4": {
+        "UUID": "363bc79c-457d-4f6b-ad9e-f2a72368d5be",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "我们即将进入起落航线，现在开始操作飞机转向。",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Ça y est, on a intégré le circuit. Préparez-vous à l'étape de vent traversier.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "De acuerdo. Estamos en el circuito de tránsito de aeródromo. Prepárate para entrar en la zona de viento de costado.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Jetzt sind Sie in der Platzrunde, gleich kommt der Querabflug.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Ok, ti trovi nel circuito, preparati per il tratto di vento trasversale.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Dobrze, znajdujemy się w kręgu. Przygotuj się na pierwszy zakręt.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "OK, estamos no circuito. Prepare-se para entrar na seção de vento cruzado.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Отлично, вы вошли в схему. Приготовьтесь выйти на участок после первого разворота.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "我们即将进入起落航线，现在开始操作飞机转向。",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_TakeOff4_MALE": {
+        "UUID": "42e6add0-8ba4-472d-9780-ca94353ab3eb",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:43",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "Now you're in the pattern, prepare to enter the crosswind section.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "On a intégré le circuit, préparez-vous à l'étape de vent traversier.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Ahora que estás en el circuito, prepárate para entrar en la zona de viento de costado.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Jetzt sind Sie in der Platzrunde, gleich kommt der Querabflug.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Ora che ti trovi nel circuito, preparati a imboccare il tratto con vento trasversale.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Jesteś w kręgu. Przygotuj się na pierwszy zakręt.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Agora que você está no circuito, prepare-se para a seção de vento cruzado.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Вы вошли в схему. Приготовьтесь выйти на участок после первого разворота.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "Now you're in the pattern, prepare to enter the crosswind section.",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_UnexpectedLanding1": {
+        "UUID": "28c3f768-9b01-4aff-b4ac-bf524bd2e4bd",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-04-08 23:48:14",
+        "Languages": {
+          "en-US": {
+            "Text": "Hmm, you weren't really supposed to land there."
+          },
+          "fr-FR": {
+            "Text": "Euh... vous n'étiez pas censé atterrir ici."
+          },
+          "es-ES": {
+            "Text": "Vaya, se suponía que no tenías que aterrizar ahí."
+          },
+          "de-DE": {
+            "Text": "Oh, hier sollten Sie eigentlich nicht landen."
+          },
+          "it-IT": {
+            "Text": "Mh, non era lì che dovevi atterrare."
+          },
+          "pl-PL": {
+            "Text": "Hmm, to nie tutaj należało wylądować."
+          },
+          "pt-BR": {
+            "Text": "Hum, na verdade, não era para você pousar."
+          },
+          "ru-RU": {
+            "Text": "Хм, вообще мы с вами не планировали приземляться здесь."
+          },
+          "zh-CN": {
+            "Text": "Hmm, you weren't really supposed to land there."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_UnexpectedLanding1_MALE": {
+        "UUID": "1a10e0a3-b287-43a5-8b00-a21234a501ed",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-28 11:26:27",
+        "Languages": {
+          "en-US": {
+            "Text": "Alright… Not quite where you were supposed to land."
+          },
+          "fr-FR": {
+            "Text": "Bon... Ce n'est pas vraiment votre piste d'atterrissage."
+          },
+          "es-ES": {
+            "Text": "Bueno... La verdad es que no es ahí donde tenías que aterrizar."
+          },
+          "de-DE": {
+            "Text": "Okay … Hier hätten Sie eigentlich nicht landen sollen."
+          },
+          "it-IT": {
+            "Text": "Beh... non proprio dove avresti dovuto atterrare."
+          },
+          "pl-PL": {
+            "Text": "W porządku... Ale to nie tutaj należało wylądować."
+          },
+          "pt-BR": {
+            "Text": "Certo… Não era exatamente onde você deveria pousar."
+          },
+          "ru-RU": {
+            "Text": "Хорошо, но… Здесь не нужно было приземляться."
+          },
+          "zh-CN": {
+            "Text": "Alright… Not quite where you were supposed to land."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_UnexpectedLanding2": {
+        "UUID": "0a1eddb3-d65a-4943-8c10-3d96d37bf4b1",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-28 11:26:27",
+        "Languages": {
+          "en-US": {
+            "Text": "It's well done, don't get me wrong… just not what was expected."
+          },
+          "fr-FR": {
+            "Text": "Je ne vous jette pas la pierre, mais ce n'était pas prévu au programme..."
+          },
+          "es-ES": {
+            "Text": "A ver, no me malinterpretes... Simplemente no es como estaba previsto."
+          },
+          "de-DE": {
+            "Text": "Eine gute Landung, aber leider nicht das, was ich erwartet hatte."
+          },
+          "it-IT": {
+            "Text": "Non fraintendermi, hai fatto un buon lavoro... ma non era quello che mi aspettavo."
+          },
+          "pl-PL": {
+            "Text": "Nie zrozum mnie źle, poszło ci świetnie… ale nie o to chodziło."
+          },
+          "pt-BR": {
+            "Text": "Foi bem feito, não me entenda mal… só não foi o que eu esperava."
+          },
+          "ru-RU": {
+            "Text": "Поймите правильно… Посадка прошла успешно, но задача была не совсем такой."
+          },
+          "zh-CN": {
+            "Text": "It's well done, don't get me wrong… just not what was expected."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_UnexpectedLanding2_MALE": {
+        "UUID": "792f6943-3de8-4c49-96a6-83b589a5c54e",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-04-08 23:48:14",
+        "Languages": {
+          "en-US": {
+            "Text": "It's not the end of the world, just unexpected."
+          },
+          "fr-FR": {
+            "Text": "Rien de dramatique, mais ce n'était pas prévu."
+          },
+          "es-ES": {
+            "Text": "No es el fin del mundo, pero estaba previsto de otro modo."
+          },
+          "de-DE": {
+            "Text": "Das ist jetzt kein Weltuntergang, es kommt nur etwas unerwartet."
+          },
+          "it-IT": {
+            "Text": "Non è la fine del mondo, solo un po' inaspettato."
+          },
+          "pl-PL": {
+            "Text": "Świat się nie zawalił, to tylko nieoczekiwany problem."
+          },
+          "pt-BR": {
+            "Text": "Não é o fim do mundo, só foi um pouco inesperado."
+          },
+          "ru-RU": {
+            "Text": "Ничего страшного не случилось, но это было неожиданно."
+          },
+          "zh-CN": {
+            "Text": "It's not the end of the world, just unexpected."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_UnexpectedLanding3": {
+        "UUID": "af661814-14c2-4672-805e-55f615683018",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-04-08 23:48:14",
+        "Languages": {
+          "en-US": {
+            "Text": "At this point I think it's probably best if we start the lesson over."
+          },
+          "fr-FR": {
+            "Text": "À ce stade, je pense qu'il serait préférable de recommencer la leçon."
+          },
+          "es-ES": {
+            "Text": "Creo que ahora mismo lo mejor sería volver a repetir la lección."
+          },
+          "de-DE": {
+            "Text": "An dieser Stelle wäre es wohl das Beste, wenn wir die Lektion neu beginnen."
+          },
+          "it-IT": {
+            "Text": "A questo punto credo sarebbe meglio se ricominciassimo la lezione da capo."
+          },
+          "pl-PL": {
+            "Text": "Chyba najlepiej będzie, jeśli zaczniemy lekcję od początku."
+          },
+          "pt-BR": {
+            "Text": "Nesse ponto, acho que seria melhor recomeçarmos a lição."
+          },
+          "ru-RU": {
+            "Text": "Поэтому я думаю, что лучше всего начать урок заново."
+          },
+          "zh-CN": {
+            "Text": "At this point I think it's probably best if we start the lesson over."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_UnexpectedLanding3_MALE": {
+        "UUID": "3e955e2d-715d-4113-8541-26e2d7247fc0",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-04-08 23:48:14",
+        "Languages": {
+          "en-US": {
+            "Text": "Don't worry, we can start the lesson over again."
+          },
+          "fr-FR": {
+            "Text": "Pas d'inquiétude, nous pouvons reprendre le cours."
+          },
+          "es-ES": {
+            "Text": "No te preocupes, podemos repetir de nuevo la lección."
+          },
+          "de-DE": {
+            "Text": "Keine Sorge, wir können die Lektion noch einmal von vorn beginnen."
+          },
+          "it-IT": {
+            "Text": "Non preoccuparti, possiamo ripetere la lezione."
+          },
+          "pl-PL": {
+            "Text": "Nie martw się, możemy zacząć lekcję od początku."
+          },
+          "pt-BR": {
+            "Text": "Não se preocupe, podemos recomeçar a lição."
+          },
+          "ru-RU": {
+            "Text": "Переживать не стоит, ведь мы можем начать урок сначала."
+          },
+          "zh-CN": {
+            "Text": "Don't worry, we can start the lesson over again."
+          }
+        }
+      },
+      "TrafficPattern.Dlg_WrongPosition": {
+        "UUID": "0ecbcc74-7968-44a9-8afe-4d22039a699a",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "dmedina",
+        "LastModifiedDate": "2020-07-01 11:55:28",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "现在还不到离开机场的时候。让我们回到起点，再试一次吧。"
+          },
+          "fr-FR": {
+            "Text": "Nous ne sommes pas encore prêts à y aller. Revenons en position."
+          },
+          "es-ES": {
+            "Text": "No es momento de ir allí. Volvamos a colocarnos en posición para intentarlo de nuevo."
+          },
+          "de-DE": {
+            "Text": "Wir sind noch nicht ganz bereit. Begeben Sie sich zurück zur Ausgangsposition, um es erneut zu versuchen."
+          },
+          "it-IT": {
+            "Text": "Non ci sei ancora, direi. Torna in posizione e riprovaci."
+          },
+          "pl-PL": {
+            "Text": "Nie jesteśmy jeszcze na to gotowi. Wróćmy na pozycję i spróbujmy jeszcze raz."
+          },
+          "pt-BR": {
+            "Text": "Ainda não estamos prontos para ir até lá. Vamos voltar à posição e tentar novamente."
+          },
+          "ru-RU": {
+            "Text": "Для этого ещё рановато. Давайте вернёмся обратно и попробуем ещё раз."
+          },
+          "zh-CN": {
+            "Text": "现在还不到离开机场的时候。让我们回到起点，再试一次吧。"
+          }
+        }
+      },
+      "TrafficPattern.Dlg_WrongPosition_MALE": {
+        "UUID": "ed087dc8-63ad-4328-aed0-17a2b46432f4",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:44",
+        "LocalizationStatus": "TranslationNeeded",
+        "Languages": {
+          "en-US": {
+            "Text": "现在还不到离开机场的时候。让我们回到起点，再试一次吧。",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Nous ne pouvons pas encore y aller. Revenons en position.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Todavía no. Volvamos a colocarnos en posición para intentarlo de nuevo.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Nicht ganz. Begeben Sie sich zurück zur Ausgangsposition, um es erneut zu versuchen.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Non ancora. Torna in posizione e riprovaci.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Niezupełnie. Wróćmy na pozycję i spróbujmy jeszcze raz.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Não exatamente. Vamos voltar à posição e tentar novamente.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Не совсем так. Давайте вернёмся обратно и попробуем ещё раз.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "现在还不到离开机场的时候。让我们回到起点，再试一次吧。",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.Failed_Training": {
+        "UUID": "8a982a13-8449-420d-a325-bb1946e155d2",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-28 11:26:27",
+        "Languages": {
+          "en-US": {
+            "Text": "You failed to complete the lesson."
+          },
+          "fr-FR": {
+            "Text": "Vous n'avez pas réussi à terminer la leçon."
+          },
+          "es-ES": {
+            "Text": "No has logrado completar la lección."
+          },
+          "de-DE": {
+            "Text": "Sie haben es nicht geschafft, die Flugstunde abzuschließen."
+          },
+          "it-IT": {
+            "Text": "Non hai completato la lezione."
+          },
+          "pl-PL": {
+            "Text": "Nie udało ci się ukończyć lekcji."
+          },
+          "pt-BR": {
+            "Text": "Você não conseguiu completar a lição."
+          },
+          "ru-RU": {
+            "Text": "Вам не удалось завершить урок."
+          },
+          "zh-CN": {
+            "Text": "You failed to complete the lesson."
+          }
+        }
+      },
+      "TrafficPattern.GOAL_CompleteTrafficPattern": {
+        "UUID": "f9df6707-e1c6-446c-b048-df7ccd3b0738",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:44",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "完成标准起落航线",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Effectuer le circuit d'aérodrome standard",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Completar el circuito de tránsito estándar",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Schließen Sie die Platzrunde ab",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Completa il circuito di pista standard",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Wykonaj standardowy krąg nadlotniskowy",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Conclua o circuito de tráfego típico",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Завершите стандартную схему захода",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "完成标准起落航线",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.GOAL_TakeOff": {
+        "UUID": "c10c5df6-1df1-4951-bd35-5f029f0a5fd0",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-04-15 18:16:26",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "起飞"
+          },
+          "fr-FR": {
+            "Text": "Décoller de la piste 21"
+          },
+          "es-ES": {
+            "Text": "Despegar de la pista 21"
+          },
+          "de-DE": {
+            "Text": "Starten Sie von Startbahn 21"
+          },
+          "it-IT": {
+            "Text": "Decolla dalla pista 21"
+          },
+          "pl-PL": {
+            "Text": "Start z pasa 21"
+          },
+          "pt-BR": {
+            "Text": "Decole na pista 21"
+          },
+          "ru-RU": {
+            "Text": "Выполните взлёт с ВПП 21"
+          },
+          "zh-CN": {
+            "Text": "起飞"
+          }
+        }
+      },
+      "TrafficPattern.STEP_5400ft": {
+        "UUID": "1cd6a72d-c1ac-4474-b30d-e5e2b566dd10",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-17 13:54:59",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "到达5400英尺高度",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Atteindre 5 400 pieds",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Alcanza 5400 pies",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Erreichen Sie 5400 Fuß",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Raggiungi 5.400 piedi",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Wejdź na 5400 ft",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Atinja 5.400 pés",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Поднимитесь на 5400 футов",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "到达5400英尺高度",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.STEP_Downwind": {
+        "UUID": "4dbfe6df-02c1-4ac3-b7c8-5dfda0b9e947",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:44",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "左转进入第三边",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Virer à gauche pour étape vent arrière",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Gira a la izquierda hacia el tramo a favor del viento",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Für den Gegenanflug nach links wenden",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Vira a sinistra per il tratto di sottovento",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Wykonaj zakręt w lewo na odcinek z wiatrem",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Vire à Esquerda para Perna do Vento",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Выполните второй разворот налево",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "左转进入第三边",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.STEP_Landing": {
+        "UUID": "d1e0f017-164f-4c89-9dc1-0ed1a51b4f14",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:44",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "于21跑道降落",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Atterrir sur la piste 21",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Aterriza en la pista 21",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Landen Sie auf Landebahn 21",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Atterra sulla pista 21",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Wyląduj na pasie 21",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Pouse na pista 21",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Приземлитесь на ВПП 21",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "于21跑道降落",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.STEP_LeftBase": {
+        "UUID": "fd17af93-abef-4d0b-9050-0dcd1fa3a4e9",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:44",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "左转进入第四边",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Virer à gauche pour étape de base",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Gira a la izquierda hacia el tramo básico",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Für den Queranflug nach links wenden",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Vira a sinistra per il tratto base",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Wykonaj zakręt w lewo na odcinek po trzecim zakręcie",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Vire à Esquerda para Perna Base",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Выполните третий разворот налево",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "左转进入第四边",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.STEP_LeftFinal": {
+        "UUID": "4f5a2614-9404-490e-b112-79004729e87f",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:44",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "左转进入最终边",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Virer à gauche pour approche finale",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Gira a la izquierda hacia la aproximación final",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Für den Endanflug nach links wenden",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Vira a sinistra per l'avvicinamento finale",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Wykonaj zakręt w lewo na prostą do lądowania",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Vire à Esquerda para a Aproximação Final",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Выполните четвёртый разворот налево",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "左转进入最终边",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.STEP_LeftHand": {
+        "UUID": "56ad0e9c-d906-4b49-bdcf-a29aa8a84da3",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:44",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "向左转",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Virer à gauche pour rejoindre le circuit d'aérodrome",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Gira a la izquierda para unirte al circuito de tránsito",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Zum Einreihen in die Platzrunde nach links wenden",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Vira a sinistra per unirti al circuito di pista",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Wykonaj zakręt w lewo, aby wejść w krąg nadlotniskowy",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Vire à Esquerda para entrar no Circuito de Tráfego",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Выполните разворот налево, чтобы войти в схему захода",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "向左转",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.STEP_LeftHand2": {
+        "UUID": "dcf866a1-001d-492b-a187-6806037f7117",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-28 11:26:27",
+        "Languages": {
+          "en-US": {
+            "Text": "Climb to 5700 feet"
+          },
+          "fr-FR": {
+            "Text": "Monter à 5 700 pieds"
+          },
+          "es-ES": {
+            "Text": "Asciende a 5700 pies"
+          },
+          "de-DE": {
+            "Text": "Auf 5700 Fuß aufsteigen"
+          },
+          "it-IT": {
+            "Text": "Sali a 5.700 piedi"
+          },
+          "pl-PL": {
+            "Text": "Wznieś się na 5700 stóp"
+          },
+          "pt-BR": {
+            "Text": "Suba para 5.700 pés"
+          },
+          "ru-RU": {
+            "Text": "Наберите высоту 5700 футов"
+          },
+          "zh-CN": {
+            "Text": "Climb to 5700 feet"
+          }
+        }
+      },
+      "TrafficPattern.STEP_Maintain75kts": {
+        "UUID": "162d835e-b12d-40ce-8331-0c382b88e366",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-28 11:26:27",
+        "Languages": {
+          "en-US": {
+            "Text": "Maintain 67 knots"
+          },
+          "fr-FR": {
+            "Text": "Maintenir 67 nœuds"
+          },
+          "es-ES": {
+            "Text": "Mantén los 67 nudos"
+          },
+          "de-DE": {
+            "Text": "Eine Geschwindigkeit von 67 Knoten beibehalten"
+          },
+          "it-IT": {
+            "Text": "Mantieni 67 nodi"
+          },
+          "pl-PL": {
+            "Text": "Utrzymuj prędkość 67 węzłów"
+          },
+          "pt-BR": {
+            "Text": "Mantenha 67 nós"
+          },
+          "ru-RU": {
+            "Text": "Сохраняйте скорость 67 узлов"
+          },
+          "zh-CN": {
+            "Text": "Maintain 67 knots"
+          }
+        }
+      },
+      "TrafficPattern.STEP_TakeOff": {
+        "UUID": "e1fc6974-6304-4e4f-92a1-62ca12aa98a8",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-03-18 12:01:44",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "从21跑道起飞",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "fr-FR": {
+            "Text": "Décoller",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Despega",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "de-DE": {
+            "Text": "Starten",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "it-IT": {
+            "Text": "Decollo",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pl-PL": {
+            "Text": "Start",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "pt-BR": {
+            "Text": "Decolagem",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "ru-RU": {
+            "Text": "Выполните взлёт",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "zh-CN": {
+            "Text": "从21跑道起飞",
+            "LocalizationStatus": "TranslationNeeded"
+          }
+        }
+      },
+      "TrafficPattern.STEP_Taxi": {
+        "UUID": "24a2b2f9-7808-48ae-b3df-24f79ee2a6c6",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-28 11:26:27",
+        "Languages": {
+          "en-US": {
+            "Text": "Stop aircraft on a taxiway"
+          },
+          "fr-FR": {
+            "Text": "Arrêter l'avion sur un taxiway"
+          },
+          "es-ES": {
+            "Text": "Detén la aeronave en una pista de rodaje"
+          },
+          "de-DE": {
+            "Text": "Das Flugzeug auf einer Rollbahn stoppen"
+          },
+          "it-IT": {
+            "Text": "Ferma l'aeromobile sulla pista di rullaggio"
+          },
+          "pl-PL": {
+            "Text": "Zatrzymaj samolot na drodze kołowania"
+          },
+          "pt-BR": {
+            "Text": "Pare a aeronave em uma pista"
+          },
+          "ru-RU": {
+            "Text": "Остановите воздушное судно на рулёжной дорожке"
+          },
+          "zh-CN": {
+            "Text": "Stop aircraft on a taxiway"
+          }
+        }
+      },
+      "TrafficPattern.Training_Complete": {
+        "UUID": "a6d3eabf-bbb6-4e2f-9242-0243cfee8952",
+        "LastModifiedBy": "ajimeno",
+        "LastModifiedDate": "2020-02-28 11:26:27",
+        "Languages": {
+          "en-US": {
+            "Text": "Complete Traffic Pattern Training"
+          },
+          "fr-FR": {
+            "Text": "Effectuer la formation sur circuit d'aérodrome"
+          },
+          "es-ES": {
+            "Text": "Completa el entrenamiento de circuito de tránsito"
+          },
+          "de-DE": {
+            "Text": "Training: Platzrunde abschließen"
+          },
+          "it-IT": {
+            "Text": "Completa l'addestramento del circuito di pista"
+          },
+          "pl-PL": {
+            "Text": "Ukończ szkolenie z kręgu nadlotniskowego"
+          },
+          "pt-BR": {
+            "Text": "Complete o Treinamento de Circuito de Tráfego"
+          },
+          "ru-RU": {
+            "Text": "Пройдите обучение схемам воздушного движения"
+          },
+          "zh-CN": {
+            "Text": "Complete Traffic Pattern Training"
+          }
+        }
+      }
+    }
+  }
+}

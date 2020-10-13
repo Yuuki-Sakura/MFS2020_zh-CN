@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LC_Courchevel_Briefing1": "库尔舍韦勒机场服务于法属阿尔卑斯山区中一处名为库尔舍韦勒的度假村，其跑道分外短小。此外，由于此地群山环抱，在库尔舍韦勒机场进近失败的飞机无法复飞。",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "库尔舍韦勒",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "法国库尔舍韦勒机场(LFLJ)"
+    }
+  }
+}

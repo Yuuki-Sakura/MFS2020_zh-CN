@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LC_Saba_Briefing1": "你将驾驶TBM930降落于世界上最短的跑道之一，它位于加勒比海地区的萨巴。天气风平浪静，但跑道的长度将向你提出严峻的挑战。为了免去不小心掠过跑道而无法降落的麻烦，你需要以尽量低的速度进近。<br\/> <br\/>挑战开始时飞机处于空中，你的飞机正朝向跑道。操作飞机与跑道对齐，在避免失速的前提下尽量降低速度，否则你会有坠入海中的危险！",
+      "MENU.LANDINGCHALLENGE.NAME_SABA": "萨巴",
+      "MENU.LANDINGCHALLENGE.NAME_SABA_Descr": "荷兰加勒比区胡安乔·E·拉斯基机场(TNCS)"
+    }
+  }
+}
