@@ -14,7 +14,7 @@ Steam版:<br>
 将Steam中除fs-base-onboarding的内容复制到以下路径
 %localappdata%\Packages\Microsoft.FlightSimulator_<一些随机代码>\Local\Cache\Packages\Official\Steam\
 
-将fs-base-onboarding文件夹复制到游戏安装目录Packages文件夹下(仅Steam可用)
+将fs-base-onboarding和fs-base-ui文件夹复制到游戏安装目录Packages文件夹下(仅Steam可用)
 
 如果你更改了数据包存储路径则复制到{你设定的数据包位置}\Official\OneStore\或者\Official\Steam\下
 
