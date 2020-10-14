@@ -11,7 +11,7 @@
 %localappdata%\Packages\Microsoft.FlightSimulator_<一些随机代码>\Local\Cache\Packages\Official\OneStore\
 
 Steam版:<br>
-将Steam中除fs-base-onboarding的内容复制到以下路径
+将Steam中除fs-base-onboarding, fs-base-ui的内容复制到以下路径
 %localappdata%\Packages\Microsoft.FlightSimulator_<一些随机代码>\Local\Cache\Packages\Official\Steam\
 
 将fs-base-onboarding和fs-base-ui文件夹复制到游戏安装目录Packages文件夹下(仅Steam可用)
