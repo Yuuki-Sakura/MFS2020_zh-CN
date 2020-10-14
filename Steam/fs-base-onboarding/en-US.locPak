@@ -41,7 +41,7 @@
       "MENU.INSTALL_PURCHASING_PACKAGE": "正在获取 {PACKAGE_NAME} 的许可证。 这可能要花点时间。 请不要关闭计算机或关闭微软模拟飞行。",
       "MENU.INSTALL_WAIT": "请等待 {PROGRESS_DOTS}",
       "MENU.INSTALL_WRITING_PACKAGE": "正在将 {PACKAGE_NAME} 写入硬盘 {PROGRESS_DOTS}",
-      "MENU.LEGALS": "© 2020 微软公司. 版权所有. 由 Asobo Studio S.a.r.l 为微软公司开发.\r\n\nMicrosoft 和 Xbox Game Studios 徽标是微软集团公司的商标.\r\n\nAsobo Studio is a registered trademark. Technology © 2020 Asobo Studio S.a.r.l.",
+      "MENU.LEGALS": "©2020 Microsoft公司。保留所有权利。由AsOBO Studio S.A.R.L为Microsoft公司开发。\r\n\nMicrosoft和Xbox游戏工作室标识是Microsoft集团公司的商标。\r\n\nAsobo Studio是注册商标。技术©2020 Asobo Studio S.a.r.l.",
       "MENU.NO": "无",
       "MENU.NOT_APPLICABLE": "不可用",
       "MENU.NOT_ENOUGH_SPACE_DISK": "该硬盘空间不足。",

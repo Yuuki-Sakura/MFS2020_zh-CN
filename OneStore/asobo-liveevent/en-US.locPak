@@ -2,11 +2,11 @@
   "LocalisationPackage": {
     "Language": "en-US",
     "Strings": {
-      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "库尔舍韦勒",
-      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "法国库尔舍韦勒机场(LFLJ)",
-      "MENU.LIVE_EVENT_BRIEFING": "库尔舍韦勒机场服务于法属阿尔卑斯山区中一处名为库尔舍韦勒的度假村，其跑道分外短小。此外，由于此地群山环抱，在库尔舍韦勒机场进近失败的飞机无法复飞。",
-      "MENU.LIVE_EVENT_DESC": "实时活动 - 着陆挑战",
-      "MENU.LIVE_EVENT_TITLE": "库尔舍韦勒"
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "日本之旅",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "RJFU, 日本",
+      "MENU.LIVE_EVENT_BRIEFING": "从长崎到东京，探索日本无与伦比的辉煌。<br> <br>飞越令人叹为观止的火山形态，未被驯化的荒野，以及从古代寺庙到未来主义霓虹灯仙境的建筑。从传说中的富士山到人工川崎岛，从彩虹桥到地球上最大的都会中心的高楼大厦，壮观的景色和标志性的地标。<br> <br> 在这次飞行中，您将驾驶比奇空中国王350i。从九州岛南部的长崎机场出发后，您将沿着火山岛链向东北方向前进，最终抵达位于日本首都东京的繁华的羽田机场--这是一次穿越太平洋火环的难忘旅程。",
+      "MENU.LIVE_EVENT_DESC": "发现之旅 - 长崎机场至羽田国际机场",
+      "MENU.LIVE_EVENT_TITLE": "日本之旅"
     }
   }
 }
