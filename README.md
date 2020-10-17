@@ -8,11 +8,11 @@
 
 微软商店版:<br>
 将OneStore中的内容复制到以下路径
-%localappdata%\Packages\Microsoft.FlightSimulator_<一些随机代码>\Local\Cache\Packages\Official\OneStore\
+%localappdata%\Packages\Microsoft.FlightSimulator_<一些随机代码>\LocalCache\Packages\Official\OneStore\
 
 Steam版:<br>
 将Steam中除fs-base-onboarding的内容复制到以下路径
-%localappdata%\Packages\Microsoft.FlightSimulator_<一些随机代码>\Local\Cache\Packages\Official\Steam\
+%appdata%\Microsoft Flight Simulator\Packages\Official\Steam\
 
 将fs-base-onboarding和fs-base-ui文件夹复制到游戏安装目录Packages文件夹下(仅Steam可用)
 
